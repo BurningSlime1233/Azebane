@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane Wiki.md",
+                "file": "Azebane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane Wiki"
+              "title": "Azebane"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azebane Wiki.md",
+                "file": "Azebane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azebane Wiki"
+              "title": "Backlinks for Azebane"
             }
           },
           {
@@ -164,8 +164,9 @@
   },
   "active": "4e8a3e4cbea58567",
   "lastOpenFiles": [
-    "Welcome.md",
     "Azebane Wiki.md",
+    "Azebane.md",
+    "Welcome.md",
     "Untitled"
   ]
 }
