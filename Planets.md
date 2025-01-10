@@ -6,3 +6,4 @@ Planets are the largest of the celestial bodies besides [[Stars]] and orbit arou
 - [[Vinruna]]
 - [[Nesanon]]
 - [[Cirillinov]]
+- [[Atropus]]

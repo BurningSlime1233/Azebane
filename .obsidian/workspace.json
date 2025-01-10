@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planets.md",
+                "file": "Azebane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planets"
+              "title": "Azebane"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planets.md",
+                "file": "Azebane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planets"
+              "title": "Backlinks for Azebane"
             }
           },
           {
@@ -164,8 +164,8 @@
   },
   "active": "4e8a3e4cbea58567",
   "lastOpenFiles": [
-    "Planetery Dragons.md",
     "Planets.md",
+    "Planetery Dragons.md",
     "Xia-Ruph System.md",
     "Azebane.md",
     "Azebane Geography.md",
