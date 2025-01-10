@@ -11,4 +11,5 @@
 - [[Athamer|The Majestic Tides of Athamer]]
 - [[Terroyster|The Sparkling Expanse of Terroyster]]
 # [[Seas]]
+- [[The Plaigus Sea]]
 # [[Major Factions, Guilds and Organizations]]
