@@ -1,0 +1,1 @@
+This is the [[Azebane]] wiki. All lore about Azebane will be stored here.
