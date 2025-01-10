@@ -1,1 +1,0 @@
-The Xia-Ruph System is a twin star system centered around the two stars [[Xiatuc]] and [[Is]]
