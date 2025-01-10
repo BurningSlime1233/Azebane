@@ -1,1 +1,1 @@
-Planets are the largest of the celestial bodies besides [[Stars]] and orbit around them with the exception of the [[Rogue Planets]]. Planets m
+Planets are the largest of the celestial bodies besides [[Stars]] and orbit around them with the exception of the [[Rogue Planets]]. Planets may be Solid or Gaseous. [[Planetery Dragons]] seem to mimic these natural formations. 
