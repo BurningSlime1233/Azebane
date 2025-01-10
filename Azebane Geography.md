@@ -23,4 +23,5 @@
 - [[The Aggregate of Lost Arcanum]]
 
 # Non Continental Sovereigns
-- [[Kam]]
+- [[Kamegnosia]]
+- [[Thraeranyballyth]]
