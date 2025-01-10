@@ -9,5 +9,6 @@
 - [[Nivermouth|The Glistening Waves of Nivermouth Deep]]
 - [[Kinito|The Shadowy Depths of Kinito]]
 - [[Athamer|The Majestic Tides of Athamer]]
+- [[Terroyster|The Sparkling ]]
 # [[Seas]]
 # [[Major Factions, Guilds and Organizations]]
