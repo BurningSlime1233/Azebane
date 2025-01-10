@@ -1,5 +1,5 @@
 # [[Continents]]
-- [[Laikedrari]]
+-  [[Laikedrari]]
 - [[Wvaerivior]]
 - [[Obseofaris]]
 - [[Drakoderior]]
@@ -21,3 +21,6 @@
 - [[The Simic Combine]]
 - [[The Izzet League]]
 - [[The Aggregate of Lost Arcanum]]
+
+# Non Continental Sovereigns
+- [[Kam]]
