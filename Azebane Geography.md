@@ -13,5 +13,6 @@
 # [[Seas]]
 - [[The Plaigus Sea]]
 - [[The Kkarlemonnt Sea]]
-- [[The Br]]
+- [[The Bredsing Sea]]
+- [[The Attletry Sea]]
 # [[Major Factions, Guilds and Organizations]]
