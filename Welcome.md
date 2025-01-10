@@ -1,4 +1,4 @@
-TestThis is your new *vault*.
+TestThis is your new *vault*. Test 2
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
