@@ -1,5 +1,6 @@
 # [[Continents]]
-
-# Oceans
-# Seas
-# Major Factions, Guilds and Organizations
+- Laikedrari
+- Wvaerivi
+# [[Oceans]]
+# [[Seas]]
+# [[Major Factions, Guilds and Organizations]]
