@@ -16,11 +16,6 @@
 - [[The Bredsing Sea]]
 - [[The Attletry Sea]]
 - [[The Voxvay Sea]]
-# [[Major Factions, Guilds and Organizations]]
-- [[The Order of the Transcendant]]
-- [[The Simic Combine]]
-- [[The Izzet League]]
-- [[The Aggregate of Lost Arcanum]]
 
 # Non Continental Sovereigns
 - [[Kamegnosia]]
