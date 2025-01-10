@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xia-Ruph System.md",
+                "file": "Planets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xia-Ruph System"
+              "title": "Planets"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xia-Ruph System.md",
+                "file": "Planets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xia-Ruph System"
+              "title": "Backlinks for Planets"
             }
           },
           {
@@ -179,8 +179,9 @@
   },
   "active": "8731e195e632cc74",
   "lastOpenFiles": [
-    "Azebane.md",
     "Xia-Ruph System.md",
+    "Planets.md",
+    "Azebane.md",
     "Azebane Geography.md",
     "Azebane Wiki.md",
     "Untitled.canvas",
