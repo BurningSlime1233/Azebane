@@ -1,1 +1,1 @@
-Planets are the largest of the solid celestial bodies
+Planets are the largest of the celestial bodies besides [[Stars]] and orbit around them with the exception of the [[Rogue Planets]]. Planets m
