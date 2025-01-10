@@ -1,6 +1,10 @@
 # [[Continents]]
-- Laikedrari
-- Wvaerivi
+- [[Laikedrari]]
+- [[Wvaerivior]]
+- [[Obseofaris]]
+- [[Drakoderior]]
+- [[Aumidan]]
+- Shattered Isles of Aevanandoor
 # [[Oceans]]
 # [[Seas]]
 # [[Major Factions, Guilds and Organizations]]
