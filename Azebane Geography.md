@@ -15,4 +15,5 @@
 - [[The Kkarlemonnt Sea]]
 - [[The Bredsing Sea]]
 - [[The Attletry Sea]]
+- [[The Voxvay Sea]]
 # [[Major Factions, Guilds and Organizations]]
