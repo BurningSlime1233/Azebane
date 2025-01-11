@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Kinito Ocean.md",
+                "file": "Laikedrari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Kinito Ocean"
+              "title": "Laikedrari"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kinito Ocean.md",
+                "file": "Laikedrari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Kinito Ocean"
+              "title": "Backlinks for Laikedrari"
             }
           },
           {
@@ -162,18 +162,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adbd16313e3324bb",
+  "active": "4e8a3e4cbea58567",
   "lastOpenFiles": [
+    "Planets.md",
+    "Xia-Ruph System.md",
     "Azebane Geography.md",
-    "The Kinito Ocean.md",
-    "Laikedrari.md",
     "Azebane Wiki.md",
     "The Nivermouth Deep.md",
+    "The Kinito Ocean.md",
+    "Laikedrari.md",
     "Azebane.md",
     "The Plaigus Sea.md",
-    "Planets.md",
     "Planetery Dragons.md",
-    "Xia-Ruph System.md",
     "Untitled.canvas",
     "Nivermouth.md",
     "Welcome.md",
