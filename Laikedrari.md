@@ -1,4 +1,4 @@
-Laikedrari is one of the six [[Continents]] in the world of [[Azebane]]. 
+Laikedrari is one of the six [[Continents]] in the world of [[Azebane]]. It is located i 
 
 # Countries of Laikedrari
 - [[Amarunda Empire]]
