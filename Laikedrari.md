@@ -1,0 +1,1 @@
+Laikedrari is one of the six [[Continents]] in the world of [[Azebane]]. 
