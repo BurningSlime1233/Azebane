@@ -1,4 +1,4 @@
-Laikedrari is one of the six [[Continents]] in the world of [[Azebane]]. It is located in the south east, touching [[The Voxvay Sea]], [[The Nivermouth]] and [[The Kinito]].
+Laikedrari is one of the six [[Continents]] in the world of [[Azebane]]. It is located in the south east, touching [[The Voxvay Sea]], [[The Nivermouth Deep]] and [[The Kinito Ocean]].
 
 # Countries of Laikedrari
 - [[Amarunda Empire]]

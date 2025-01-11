@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Nivermouth.md",
+                "file": "The Kinito Ocean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Nivermouth"
+              "title": "The Kinito Ocean"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Nivermouth.md",
+                "file": "The Kinito Ocean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Nivermouth"
+              "title": "Backlinks for The Kinito Ocean"
             }
           },
           {
@@ -164,16 +164,17 @@
   },
   "active": "adbd16313e3324bb",
   "lastOpenFiles": [
-    "Laikedrari.md",
     "Azebane Geography.md",
+    "The Kinito Ocean.md",
+    "Laikedrari.md",
+    "Azebane Wiki.md",
+    "The Nivermouth Deep.md",
     "Azebane.md",
     "The Plaigus Sea.md",
     "Planets.md",
     "Planetery Dragons.md",
     "Xia-Ruph System.md",
-    "Azebane Wiki.md",
     "Untitled.canvas",
-    "The Nivermouth.md",
     "Nivermouth.md",
     "Welcome.md",
     "Untitled"
