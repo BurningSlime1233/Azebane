@@ -11,10 +11,14 @@
             "id": "4e8a3e4cbea58567",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Laikedrari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laikedrari"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Laikedrari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Laikedrari"
             }
           },
           {
@@ -159,8 +164,8 @@
   },
   "active": "4e8a3e4cbea58567",
   "lastOpenFiles": [
-    "Laikedrari.md",
     "Planets.md",
+    "Laikedrari.md",
     "Xia-Ruph System.md",
     "Azebane Geography.md",
     "Azebane Wiki.md",
