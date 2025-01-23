@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Azebane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laikedrari"
+              "title": "Azebane"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Azebane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Laikedrari"
+              "title": "Backlinks for Azebane"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Azebane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Azebane"
             }
           },
           {
@@ -139,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Azebane.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Azebane"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,19 +163,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e8a3e4cbea58567",
+  "active": "adbd16313e3324bb",
   "lastOpenFiles": [
-    "Planets.md",
+    "Untitled.canvas",
+    "Azebane.md",
     "Laikedrari.md",
+    "Planets.md",
     "Xia-Ruph System.md",
     "Azebane Geography.md",
     "Azebane Wiki.md",
     "The Nivermouth Deep.md",
     "The Kinito Ocean.md",
-    "Azebane.md",
     "The Plaigus Sea.md",
     "Planetery Dragons.md",
-    "Untitled.canvas",
     "Nivermouth.md",
     "Welcome.md",
     "Untitled"
