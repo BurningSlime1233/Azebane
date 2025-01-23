@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Azebane"
             }
+          },
+          {
+            "id": "3b2e8e91310fddba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Races"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azebane.md",
+                "file": "Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azebane"
+              "title": "Backlinks for Races"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azebane.md",
+                "file": "Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Azebane"
+              "title": "Outgoing links from Races"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azebane.md"
+                "file": "Races.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Azebane"
+              "title": "Outline of Races"
             }
           }
         ],
@@ -163,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adbd16313e3324bb",
+  "active": "3b2e8e91310fddba",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Azebane.md",
+    "Races.md",
+    "Untitled.canvas",
     "Laikedrari.md",
     "Planets.md",
     "Xia-Ruph System.md",
