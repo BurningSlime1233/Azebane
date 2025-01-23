@@ -1,1 +1,3 @@
-the following is a list of major races. certain races have a number of varied [[subraces]]  in which 
+the following is a list of major races. certain races have a number of varied [[subraces]]  in which case, the link will be to list of subraces.
+
+## [[Aarakocra]]
