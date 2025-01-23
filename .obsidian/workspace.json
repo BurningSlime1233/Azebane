@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races.md",
+                "file": "Races (Playable).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Races"
+              "title": "Races (Playable)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races.md",
+                "file": "Races (Playable).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Races"
+              "title": "Backlinks for Races (Playable)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races.md",
+                "file": "Races (Playable).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Races"
+              "title": "Outgoing links from Races (Playable)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races.md"
+                "file": "Races (Playable).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Races"
+              "title": "Outline of Races (Playable)"
             }
           }
         ],
@@ -163,10 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adbd16313e3324bb",
+  "active": "4e8a3e4cbea58567",
   "lastOpenFiles": [
     "Locathah.md",
-    "Races.md",
+    "Races (Playable).md",
     "Firbolg.md",
     "Azebane.md",
     "Flowerfolk Subraces.md",
