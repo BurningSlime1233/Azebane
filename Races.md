@@ -1,4 +1,4 @@
-the following is a list of major races. certain races have a number of varied [[subraces]]  in which case, the link will be to list of subraces.
+The following is a list of major races seen across the [[Xia-Ruph System]] and the associated [[Plane|plane]]. certain races have a number of varied [[subraces]]  in which case, the link will be to list of subraces.
 
 ## [[Aarakocra]]
 ## [[Aasimar]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane.md",
+                "file": "Races.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane"
+              "title": "Races"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azebane.md",
+                "file": "Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azebane"
+              "title": "Backlinks for Races"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azebane.md",
+                "file": "Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Azebane"
+              "title": "Outgoing links from Races"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azebane.md"
+                "file": "Races.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Azebane"
+              "title": "Outline of Races"
             }
           }
         ],
@@ -163,11 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adbd16313e3324bb",
+  "active": "4e8a3e4cbea58567",
   "lastOpenFiles": [
+    "Azebane.md",
     "Flowerfolk Subraces.md",
     "Races.md",
-    "Azebane.md",
     "Untitled.canvas",
     "Laikedrari.md",
     "Planets.md",
