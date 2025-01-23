@@ -84,7 +84,10 @@ The following is a list of major races seen across the [[Xia-Ruph System]] and t
 ## [[Tiefling]]
 ## [[To'Kustar]]
 ## [[Tortle]]
-## [[TetramanTransylian]]
-## [[Tetramand]]
+## [[Transylian]]
+## [[Triton]]
+## [[Ursus]]
+## [[Vedalken]]
+## [[Warforged]]
 ## [[Tetramand]]
 
