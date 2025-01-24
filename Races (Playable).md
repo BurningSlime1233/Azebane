@@ -26,7 +26,7 @@ The following is a list of major races seen across the [[Xia-Ruph System]] and t
 ## [[Faceless]]
 ## [[Fairy]]
 ## [[Firbolg]]
-## [[Flowerfolk Subraces|Flowerfolk]]
+## [[Flowerfolk]]
 ## [[Galilean]]
 ## [[Gargoyle]]
 ## [[Genasi]]
