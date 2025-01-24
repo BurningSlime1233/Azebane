@@ -89,5 +89,6 @@ The following is a list of major races seen across the [[Xia-Ruph System]] and t
 ## [[Ursus]]
 ## [[Vedalken]]
 ## [[Warforged]]
+## [[Xixchil]]
 ## [[Yuan-Ti Pureblood]]
 
