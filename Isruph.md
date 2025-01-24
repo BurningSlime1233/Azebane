@@ -1,0 +1,1 @@
+Isruph is the [[Stars|Star]] at the center of the [[Xia-Ruph System]]. It is a red dwarf and forms a dual star system with [[Xiatuc]]. Isruph is also the male [[Solar Dragon|Solar]] [[Greatwyrm]] that resides within the star. He is the mate of Xiatuc and they are both worshipped as [[Diety|deities]] across the system.
