@@ -1,1 +1,1 @@
-Moons are celestial bodies that revolve arounf [[Planets]]. If a planet has life and is connected to the [[Weave]], the moons will also be the same.
+Moons are celestial bodies that revolve around [[Planets]]. If a planet has life and is connected to the [[Weave]], the moons will also be the same. There are also a type of [[Moon Dragon]]
