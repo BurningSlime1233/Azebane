@@ -1,1 +1,1 @@
-Xiatuc is the [[S]] at the center
+Xiatuc is the [[Stars|Star]] at the center of the [[Xia-Ruph System]]. It is a red dwarf and forms a dual star system with [[Isruph]]. Xiatuc is also the [[Solar Dragon|Solar]]
