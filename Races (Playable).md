@@ -1,4 +1,4 @@
-The following is a list of major races seen across the [[Xia-Ruph System]] and the associated [[Plane|planes]]. This list only contains those which can be picked by players during character creation. Certain races have a number of varied [[subraces]]  in which case, the link will be to list of subraces.
+The following is a list of major races seen across the [[Xia-Ruph System]] and the associated [[Plane|planes]]. This list only contains those which can be picked by players during character creation.
 
 ## [[Aarakocra]]
 ## [[Aasimar]]
@@ -21,7 +21,7 @@ The following is a list of major races seen across the [[Xia-Ruph System]] and t
 ## [[Duergar]]
 ## [[Dwarf]]
 ## [[Ectonurite]]
-## [[Elven Subraces|Elf]]
+## [[Elf]]
 ## [[Embalmed]]
 ## [[Faceless]]
 ## [[Fairy]]

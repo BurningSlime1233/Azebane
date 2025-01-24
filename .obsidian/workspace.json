@@ -11,10 +11,14 @@
             "id": "4e8a3e4cbea58567",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Races (Playable).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Races (Playable)"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Races (Playable).md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Races (Playable)"
             }
           }
         ],
@@ -159,18 +165,18 @@
   },
   "active": "4e8a3e4cbea58567",
   "lastOpenFiles": [
-    "Azebane.md",
-    "Moons.md",
     "Planets.md",
+    "Azebane Wiki.md",
+    "Moons.md",
+    "Xia-Ruph System.md",
+    "Azebane.md",
     "Laikedrari.md",
     "Races (Playable).md",
     "Locathah.md",
     "Firbolg.md",
     "Flowerfolk Subraces.md",
     "Untitled.canvas",
-    "Xia-Ruph System.md",
     "Azebane Geography.md",
-    "Azebane Wiki.md",
     "The Nivermouth Deep.md",
     "The Kinito Ocean.md",
     "The Plaigus Sea.md",
