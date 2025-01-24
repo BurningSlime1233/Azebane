@@ -1,4 +1,4 @@
-Azebane is the second [[Planets|planet]] in the [[Xia-Ruph System]].
+Azebane is the second [[Planets|planet]] in the [[Xia-Ruph System]]. The moons [[Aethoros]] and [[Zaereon]] revolve around it.
 # [[Azebane Geography]]
 
 # [[Major Factions, Guilds and Organizations]]
