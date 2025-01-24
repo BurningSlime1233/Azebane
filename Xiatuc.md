@@ -1,1 +1,1 @@
-Xiatuc is the [[Stars|Star]] at the center of the [[Xia-Ruph System]]. It is a red dwarf and forms a dual star system with [[Isruph]]. Xiatuc is also the female [[Solar Dragon|Solar]] [[Greatwyrm]] that resides within the star. She is the mate of Isruph
+Xiatuc is the [[Stars|Star]] at the center of the [[Xia-Ruph System]]. It is a red dwarf and forms a dual star system with [[Isruph]]. Xiatuc is also the female [[Solar Dragon|Solar]] [[Greatwyrm]] that resides within the star. She is the mate of Isruph and they are both worshipped as [[Diety|deities]] across the system.
