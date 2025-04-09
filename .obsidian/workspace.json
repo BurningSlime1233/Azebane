@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Planets"
             }
+          },
+          {
+            "id": "ff9c3e837afa0c7c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,10 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planets.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planets"
+              "title": "Outline"
             }
           }
         ],
@@ -163,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5934d3be0e8ca38b",
+  "active": "ff9c3e837afa0c7c",
   "lastOpenFiles": [
     "Races (Playable).md",
     "Xiatuc.md",
