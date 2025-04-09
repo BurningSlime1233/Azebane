@@ -25,12 +25,14 @@
             "id": "ff9c3e837afa0c7c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Azebane.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Azebane"
             }
           }
         ],
@@ -153,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Azebane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Azebane"
             }
           }
         ],
