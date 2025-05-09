@@ -1,0 +1,1 @@
+The Amarunda Empire is a mostly elven kingdom with its capital city Cormanthyr being named after Corellon Larethian. It is ruled by a legendary Bladesinger, Norfaren Amarunda, son of the high elf who founded the Empire.
