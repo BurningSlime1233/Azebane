@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amarunda Empire.md",
+                "file": "Continents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amarunda Empire"
+              "title": "Continents"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amarunda Empire.md",
+                "file": "Continents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Amarunda Empire"
+              "title": "Outline of Continents"
             }
           }
         ],
@@ -170,10 +170,11 @@
   "active": "397525ff9a3c3b49",
   "lastOpenFiles": [
     "Laikedrari.md",
+    "Continents.md",
+    "Amarunda Empire.md",
     "Thrish'kaar, the Radiant Barrier.md",
     "Azebane.md",
     "Exar'mu'sharn, the Abyssal Rot.md",
-    "Amarunda Empire.md",
     "Planets.md",
     "Races (Playable).md",
     "Xiatuc.md",
