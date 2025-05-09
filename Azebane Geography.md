@@ -19,4 +19,4 @@
 
 # Non Continental Sovereigns
 - [[Kamegnosia]]
-- [[Thraeranyballyth]]
+- [[Thraeranyballyth, the Slumbering]]

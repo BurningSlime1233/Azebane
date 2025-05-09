@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Thraeranyballyth, the Slumbering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laikedrari"
+              "title": "Thraeranyballyth, the Slumbering"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Thraeranyballyth, the Slumbering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Laikedrari"
+              "title": "Outline of Thraeranyballyth, the Slumbering"
             }
           }
         ],
@@ -169,15 +169,18 @@
   },
   "active": "397525ff9a3c3b49",
   "lastOpenFiles": [
-    "The Silver Valley of Rakluthan.md",
+    "Azebane Geography.md",
+    "Thraeranyballyth, the Slumbering.md",
+    "Thraeranyballyth.md",
+    "Azebane.md",
     "Laikedrari.md",
+    "The Silver Valley of Rakluthan.md",
     "Laikedrarian Velds.md",
     "Vustrana.md",
     "The Xiburg Dynasty.md",
     "Amarunda Empire.md",
     "Continents.md",
     "Thrish'kaar, the Radiant Barrier.md",
-    "Azebane.md",
     "Exar'mu'sharn, the Abyssal Rot.md",
     "Planets.md",
     "Races (Playable).md",
@@ -190,12 +193,9 @@
     "Firbolg.md",
     "Flowerfolk Subraces.md",
     "Untitled.canvas",
-    "Azebane Geography.md",
     "The Nivermouth Deep.md",
     "The Kinito Ocean.md",
     "The Plaigus Sea.md",
-    "Planetery Dragons.md",
-    "Nivermouth.md",
     "Untitled"
   ]
 }
