@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Azebane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laikedrari"
+              "title": "Azebane"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Azebane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Laikedrari"
+              "title": "Outline of Azebane"
             }
           }
         ],
@@ -169,8 +169,8 @@
   },
   "active": "397525ff9a3c3b49",
   "lastOpenFiles": [
-    "Exar'mu'sharn, the Abyssal Rot.md",
     "Laikedrari.md",
+    "Exar'mu'sharn, the Abyssal Rot.md",
     "Amarunda Empire.md",
     "Azebane.md",
     "Planets.md",
