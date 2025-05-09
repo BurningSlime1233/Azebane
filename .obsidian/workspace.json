@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "The Silver Valley of Rakluthan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laikedrari"
+              "title": "The Silver Valley of Rakluthan"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "The Silver Valley of Rakluthan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Laikedrari"
+              "title": "Outline of The Silver Valley of Rakluthan"
             }
           }
         ],
@@ -169,8 +169,9 @@
   },
   "active": "397525ff9a3c3b49",
   "lastOpenFiles": [
-    "Laikedrarian Velds.md",
     "Laikedrari.md",
+    "The Silver Valley of Rakluthan.md",
+    "Laikedrarian Velds.md",
     "Vustrana.md",
     "The Xiburg Dynasty.md",
     "Amarunda Empire.md",
@@ -195,7 +196,6 @@
     "The Plaigus Sea.md",
     "Planetery Dragons.md",
     "Nivermouth.md",
-    "Welcome.md",
     "Untitled"
   ]
 }
