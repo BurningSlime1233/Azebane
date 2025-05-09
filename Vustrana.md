@@ -1,5 +1,3 @@
-Vustrana is a large jungle filled and mountainous island in the [[Continent|continent]] of [[Laikedrari]]. The capital of Vustrana and the only major city on the island is [[Ebonwell]] which is a massive subterranean city spanning the entirety of the largest mountain on the island called [[Shadespire Peak]]. The city was built by [[Dwarf|dwarves]] and later taken over by [[Mind Flayer|mind flayers]] who turned them into duergar. The duergar later overtook the city and newcomers to the city had it expanded to cover the entire mountain with construction on the outside as well.
+Vustrana is a large jungle filled and mountainous island in the [[Continent|continent]] of [[Laikedrari]]. The capital of Vustrana and the only major city on the island is [[Ebonwell]] which is a massive subterranean city spanning the entirety of the largest mountain on the island called [[Shadespire Peak]]. The city was built by [[Dwarf|dwarves]] and later taken over by [[Mind Flayer|mind flayers]] who turned them into [[Duergar|duergar]]. The duergar later overtook the city and newcomers to the city had it expanded to cover the entire mountain with construction on the outside as well.
 
-  
-
-The other parts of Vustrana have smaller villages of Lizardfolk, Yuan-Ti, Grung and more.
+The other parts of Vustrana have smaller villages of [[Lizardfolk]], [[Yuan-Ti]], [[Grung]] and more.
