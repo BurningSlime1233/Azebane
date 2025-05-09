@@ -4,7 +4,7 @@ Laikedrari is one of the six [[Continents]] in the world of [[Azebane]]. It is l
 Back during [[The First Dawn]], the Laikedrari Empire was one ruled by a powerful ruler who would make a deal the the [[Demon Lord]] [[Orcus]] and become [[Cadogan Argent, Exarch of Blood]]. In modern day, there exists the [[Thrish'kaar, the Radiant Barrier]] which separates the [[Exar'mu'sharn, the Abyssal Rot|Abyssal Rot]] from the rest of the continent.
 
 # Geography
-A main landmass of Laikedrari is a flat grassland, called the Laikedrarian Velds. 
+A main landmass of Laikedrari is a flat grassland, called the [[Laikedrarian Velds]]. 
 
 # Countries of Laikedrari
 - [[Amarunda Empire]]
