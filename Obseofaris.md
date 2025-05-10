@@ -10,4 +10,7 @@ Despite being 2 separate landmasses, it is one continent because it used to be o
 
 ## South
 [[The Stowyyth Dominion]]
-[[Thoro]]
+[[Thorosea]]
+[[Xarithia]]
+[[Xeomidion]]
+[[Zepidior]]
