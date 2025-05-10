@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Obseofaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laikedrari"
+              "title": "Obseofaris"
             }
           }
         ]
@@ -183,21 +183,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adbd16313e3324bb",
+  "active": "185d2856da7cbc22",
   "lastOpenFiles": [
-    "Azers.md",
-    "Vulphateor.md",
-    "Races (Playable).md",
     "Obseofaris.md",
+    "Azebane Geography.md",
+    "Azebane.md",
+    "Laikedrari.md",
+    "Vulphateor.md",
+    "The Ashen Precipice.md",
+    "Azers.md",
+    "Races (Playable).md",
     "Shoproterron Empire.md",
     "Monastic Order.md",
     "Amarunda Empire.md",
-    "Azebane.md",
-    "Azebane Geography.md",
     "Exar'mu'sharn, the Abyssal Rot.md",
     "Isruph.md",
     "Cirittapan.md",
-    "Laikedrari.md",
     "Laikedrarian Velds.md",
     "Moons.md",
     "Planets.md",
@@ -210,7 +211,6 @@
     "Xiatuc.md",
     "The Plaigus Sea.md",
     "Continent.md",
-    "Continents.md",
     "Untitled.canvas",
     "Untitled"
   ]
