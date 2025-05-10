@@ -1,4 +1,4 @@
-# [[Continents]]
+# [[Continent|Continents]]
 -  [[Laikedrari]]
 - [[Wvaerivior]]
 - [[Obseofaris]]
