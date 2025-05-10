@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races (Playable).md",
+                "file": "Continent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Races (Playable)"
+              "title": "Backlinks for Continent"
             }
           },
           {
@@ -163,8 +163,7 @@
               "title": "Outline of Continent"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "397525ff9a3c3b49",
+  "active": "daaf4e8ec0446378",
   "lastOpenFiles": [
     "Obseofaris.md",
     "Continent.md",
