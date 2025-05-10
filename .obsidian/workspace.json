@@ -11,10 +11,14 @@
             "id": "397525ff9a3c3b49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Continent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continent"
             }
           },
           {
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Continent.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Continent"
             }
           }
         ],
@@ -179,6 +184,7 @@
   "active": "397525ff9a3c3b49",
   "lastOpenFiles": [
     "Obseofaris.md",
+    "Continent.md",
     "Laikedrari.md",
     "Azebane Geography.md",
     "Amarunda Empire.md",
@@ -204,7 +210,6 @@
     "Flowerfolk Subraces.md",
     "Untitled.canvas",
     "The Nivermouth Deep.md",
-    "The Kinito Ocean.md",
     "Untitled"
   ]
 }

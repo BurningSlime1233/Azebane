@@ -1,2 +1,2 @@
-Obseofaris is one of the six [[Con]]
+Obseofaris is one of the six [[Continent]]
 # Countries of Obseofaris
