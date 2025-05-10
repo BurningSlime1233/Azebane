@@ -3,4 +3,8 @@ Despite being 2 separate landmasses, it is one continent because it used to be o
 # Countries of Obseofaris
 ## North
 [[Ciritapan]]
+[[Ithaharkh]]
+[[Shoproterron Empire]]
+
 ## South
+[[The Stowyyth Dominion]]
