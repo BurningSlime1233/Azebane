@@ -1,1 +1,1 @@
-The Shoproterron Empire is a countr
+The Shoproterron Empire is a country in North [[Obseofaris]] that contests [[Cirittapan]] over dominon of [[The Plaigus Sea]]. 
