@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obseofaris.md",
+                "file": "Ciritapan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obseofaris"
+              "title": "Ciritapan"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obseofaris.md",
+                "file": "Ciritapan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obseofaris"
+              "title": "Backlinks for Ciritapan"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obseofaris.md",
+                "file": "Ciritapan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obseofaris"
+              "title": "Outgoing links from Ciritapan"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obseofaris.md",
+                "file": "Ciritapan.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obseofaris"
+              "title": "Outline of Ciritapan"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "185d2856da7cbc22",
   "lastOpenFiles": [
-    "Laikedrari.md",
     "Obseofaris.md",
+    "Ciritapan.md",
+    "Laikedrari.md",
     "Continent.md",
     "Azebane Geography.md",
     "Continents.md",
@@ -211,7 +212,6 @@
     "Firbolg.md",
     "Flowerfolk Subraces.md",
     "Untitled.canvas",
-    "The Nivermouth Deep.md",
     "Untitled"
   ]
 }
