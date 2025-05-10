@@ -5,6 +5,7 @@ Despite being 2 separate landmasses, it is one continent because it used to be o
 [[Ciritapan]]
 [[Ithaharkh]]
 [[Shoproterron Empire]]
+[[Vrallugiya]]
 
 ## South
 [[The Stowyyth Dominion]]
