@@ -90,5 +90,5 @@ The following is a list of major races seen across the [[Xia-Ruph System]] and t
 ## [[Vedalken]]
 ## [[Warforged]]
 ## [[Xixchil]]
-## [[Yuan-Ti Pureblood]]
+## [[Yuan-Ti|Yuan-Ti Pureblood]]
 
