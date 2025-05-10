@@ -1,1 +1,0 @@
-Cirittapan a country in the Nort [[Obseofaris]] 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciritapan.md",
+                "file": "Cirittapan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ciritapan"
+              "title": "Cirittapan"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciritapan.md",
+                "file": "Cirittapan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ciritapan"
+              "title": "Backlinks for Cirittapan"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciritapan.md",
+                "file": "Cirittapan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ciritapan"
+              "title": "Outgoing links from Cirittapan"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciritapan.md",
+                "file": "Cirittapan.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ciritapan"
+              "title": "Outline of Cirittapan"
             }
           }
         ],
@@ -186,7 +186,8 @@
   "active": "185d2856da7cbc22",
   "lastOpenFiles": [
     "Obseofaris.md",
-    "Ciritapan.md",
+    "Cirittapan.md",
+    "The Plaigus Sea.md",
     "Laikedrari.md",
     "Continent.md",
     "Azebane Geography.md",
@@ -210,7 +211,6 @@
     "Moons.md",
     "Locathah.md",
     "Firbolg.md",
-    "Flowerfolk Subraces.md",
     "Untitled.canvas",
     "Untitled"
   ]

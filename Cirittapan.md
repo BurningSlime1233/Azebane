@@ -1,0 +1,3 @@
+Cirittapan a country in North [[Obseofaris]] that contests [[The Plaigus Sea]].
+
+The capital of Cirittapan is an island fortress called Sundergate. Cirritapan is one of the 2 remaining kingdoms that competes over the Otherworldly Isles of the Plaigus. Cirritapan, unlike its rival, the Shoproterron Empire, does not care at all for the mainland and is known for its naval supremacy and brutality as it hires aquatic monsters, pirates and various other groups no one else dares to work with. The kingdom has an ancient alliance with the [[|Abo]] of Athamer.

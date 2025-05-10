@@ -2,7 +2,7 @@ Obseofaris is one of the six [[Continent|continents]] on the planet of [[Azebane
 Despite being 2 separate landmasses, it is one continent because it used to be one empire before [[The Cleansing]].
 # Countries of Obseofaris
 ## North
-[[Ciritapan]]
+[[Cirittapan]]
 [[Ithaharkh]]
 [[Shoproterron Empire]]
 [[Vrallugiya]]
