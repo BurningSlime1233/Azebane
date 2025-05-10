@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shoproterron Empire.md",
+                "file": "Obseofaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shoproterron Empire"
+              "title": "Obseofaris"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shoproterron Empire.md",
+                "file": "Obseofaris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shoproterron Empire"
+              "title": "Backlinks for Obseofaris"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shoproterron Empire.md",
+                "file": "Obseofaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shoproterron Empire"
+              "title": "Outgoing links from Obseofaris"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shoproterron Empire.md",
+                "file": "Obseofaris.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shoproterron Empire"
+              "title": "Outline of Obseofaris"
             }
           }
         ],
@@ -185,6 +185,8 @@
   },
   "active": "185d2856da7cbc22",
   "lastOpenFiles": [
+    "Shoproterron Empire.md",
+    "Monastic Order.md",
     "Amarunda Empire.md",
     "Azebane.md",
     "Azebane Geography.md",
@@ -197,7 +199,6 @@
     "Obseofaris.md",
     "Planets.md",
     "Races (Playable).md",
-    "Shoproterron Empire.md",
     "The Silver Valley of Rakluthan.md",
     "The Xiburg Dynasty.md",
     "Thraeranyballyth, the Slumbering.md",
@@ -210,7 +211,6 @@
     "Continents.md",
     "Thraeranyballyth.md",
     "Azebane Wiki.md",
-    "Locathah.md",
     "Untitled.canvas",
     "Untitled"
   ]
