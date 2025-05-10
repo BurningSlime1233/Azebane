@@ -6,6 +6,8 @@ Despite being 2 separate landmasses, it is one continent because it used to be o
 [[Ithaharkh]]
 [[Shoproterron Empire]]
 [[Vrallugiya]]
+[[Vulphateor]]
 
 ## South
 [[The Stowyyth Dominion]]
+[[Thoro]]
