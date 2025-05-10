@@ -11,14 +11,10 @@
             "id": "397525ff9a3c3b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laikedrari.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laikedrari"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laikedrari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Laikedrari"
+              "title": "Backlinks"
             }
           },
           {
@@ -140,13 +135,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laikedrari.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Laikedrari"
+              "title": "Outline"
             }
           }
         ]
@@ -168,9 +162,9 @@
   },
   "active": "397525ff9a3c3b49",
   "lastOpenFiles": [
+    "Laikedrari.md",
     "Azebane Geography.md",
     "Continent.md",
-    "Laikedrari.md",
     "Continents.md",
     "Obseofaris.md",
     "Amarunda Empire.md",
