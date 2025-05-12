@@ -1,1 +1,1 @@
-Fenhaven is a 
+Fenhaven is an up and coming city, 
