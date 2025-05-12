@@ -1,1 +1,1 @@
-Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane]]. It is located in the
+Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane]]. It is located in the center, connected to 
