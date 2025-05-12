@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#aihareroth",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +112,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,12 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Fenhaven.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Fenhaven"
             }
           }
         ],
@@ -208,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0daa64c161c75d2",
+  "active": "185d2856da7cbc22",
   "lastOpenFiles": [
     "Vustrana.md",
     "Fenhaven.md",
