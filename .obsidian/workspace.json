@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#aihareroth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d62d1193ed61aeae",
+  "active": "c0daa64c161c75d2",
   "lastOpenFiles": [
+    "Vustrana.md",
     "Fenhaven.md",
     "Azebane Survival Guide.md",
     "Untitled.canvas",
