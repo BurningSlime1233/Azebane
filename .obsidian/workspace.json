@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azebane Survival Guide.md",
+                "file": "Fenhaven.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Azebane Survival Guide"
+              "title": "Outline of Fenhaven"
             }
           }
         ],
@@ -208,12 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9266de81f110ccad",
+  "active": "185d2856da7cbc22",
   "lastOpenFiles": [
+    "Azebane Survival Guide.md",
     "Fenhaven.md",
     "Untitled.canvas",
     "2025-05-13.md",
-    "Azebane Survival Guide.md",
     "Aihareroth.md",
     "Wvaerivior.md",
     "Obseofaris.md",
