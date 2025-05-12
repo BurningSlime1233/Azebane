@@ -1,6 +1,7 @@
 Aihareroth is one of the five territories of [[Wvaerivior]]. It is the central territory with its capital city of [[Großenbeck]]. It is ruled by [[Duchess Zenoishara]]. [[House Medani]], [[House Orien]] and [[House Sivis]] all have their headquarters in Aihareroth.
 
-## Important L
+## Important Locations
+[[Swamp of Flowing Nightmares]]
 ## Major Cities
 
 [[Aundair]]
