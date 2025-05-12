@@ -6,3 +6,4 @@ Aihareroth is one of the five territories of [[Wvaerivior]]. It is the central t
 [[Breland]]
 [[Einshold]]
 [[Fenhaven]]
+[[Zilargo]]
