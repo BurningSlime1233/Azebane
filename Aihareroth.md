@@ -1,1 +1,1 @@
-Aihareroth is one of the five territories of [[Wvaerivior]]. It is the central territory with its capital city of 
+Aihareroth is one of the five territories of [[Wvaerivior]]. It is the central territory with its capital city of [[Großenbeck]].
