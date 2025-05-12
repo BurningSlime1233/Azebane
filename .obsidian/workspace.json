@@ -11,17 +11,14 @@
             "id": "185d2856da7cbc22",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Fenhaven.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Fenhaven"
             }
           },
           {
@@ -62,7 +59,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#campaign_notes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +113,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Azebane Survival Guide.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Azebane Survival Guide"
             }
           }
         ],
@@ -211,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "185d2856da7cbc22",
+  "active": "9266de81f110ccad",
   "lastOpenFiles": [
-    "2025-05-13.md",
-    "Untitled.canvas",
-    "Azebane Survival Guide.md",
     "Fenhaven.md",
+    "Untitled.canvas",
+    "2025-05-13.md",
+    "Azebane Survival Guide.md",
     "Aihareroth.md",
     "Wvaerivior.md",
     "Obseofaris.md",
