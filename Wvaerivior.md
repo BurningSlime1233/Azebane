@@ -2,12 +2,13 @@ Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane
 
 # Dragonmarked Houses
 - [[House Cannith]]
-- [[House Medani]]
-- [[House Tharashk]]
-- [[House Vadalis]]
+- [[House Deneith]]
 - [[House Ghallanda]]
+- [[House Medani]]
 - [[House Orien]]
 - [[House Sivis]]
+- [[House Tharashk]]
+- [[House Vadalis]]
 # Territories
 [[Aihareroth]]
 [[Akadovia]]
