@@ -3,3 +3,8 @@ Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane
 # Dragonmarked Houses
 
 # Territories
+[[Aihareroth]]
+[[Akadovia]]
+[[Attraeokhannad]]
+[[Ibreodegalla]]
+[[The Nivernic Coast]]
