@@ -11,14 +11,17 @@
             "id": "185d2856da7cbc22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fenhaven.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Fenhaven"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -59,8 +62,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#campaign_notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +115,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azebane Survival Guide.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Azebane Survival Guide"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -208,10 +211,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1349dca9bb89c74",
+  "active": "185d2856da7cbc22",
   "lastOpenFiles": [
-    "Fenhaven.md",
+    "2025-05-13.md",
+    "Untitled.canvas",
     "Azebane Survival Guide.md",
+    "Fenhaven.md",
     "Aihareroth.md",
     "Wvaerivior.md",
     "Obseofaris.md",
@@ -234,9 +239,6 @@
     "Planets.md",
     "The Silver Valley of Rakluthan.md",
     "The Xiburg Dynasty.md",
-    "Thraeranyballyth, the Slumbering.md",
-    "Thrish'kaar, the Radiant Barrier.md",
-    "Untitled.canvas",
     "Untitled"
   ]
 }
