@@ -1,1 +1,1 @@
-Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane]]. It is located in the center, connected to 
+Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane]]. It is located in the center, connected to [[The Nivermouth Deep]], [[The Bredsing Sea]], [[The Kinito Ocean]] and [[The Athamer]]. 
