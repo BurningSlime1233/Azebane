@@ -35,8 +35,7 @@
               "title": "Wvaerivior"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e709b74b019225db",
+  "active": "185d2856da7cbc22",
   "lastOpenFiles": [
-    "Aihareroth.md",
     "Wvaerivior.md",
+    "Aihareroth.md",
     "Obseofaris.md",
     "Duchess Zenoishara.md",
     "Azebane Geography.md",
