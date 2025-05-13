@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e709b74b019225db",
+  "active": "9266de81f110ccad",
   "lastOpenFiles": [
+    "Fenhaven.md",
+    "Azebane.md",
     "Wvaerivior.md",
     "Azebane Survival Guide.md",
-    "Fenhaven.md",
     "Vustrana.md",
     "Untitled.canvas",
     "2025-05-13.md",
@@ -220,7 +221,6 @@
     "Obseofaris.md",
     "Duchess Zenoishara.md",
     "Azebane Geography.md",
-    "Azebane.md",
     "Vulphateor.md",
     "Laikedrari.md",
     "The Ashen Precipice.md",
