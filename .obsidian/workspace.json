@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d62d1193ed61aeae",
+  "active": "185d2856da7cbc22",
   "lastOpenFiles": [
     "Fenhaven.md",
     "Azebane Survival Guide.md",
