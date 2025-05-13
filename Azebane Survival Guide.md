@@ -10,4 +10,4 @@ Party:
 - [[Valorian]]
 
 ## Session 0
-Livia, Istara and Victus first arrived in Fenhaven on Correlaire 5, 308 TD. They were all 
+Livia, Istara and Victus first arrived in [[Fenhaven]] on [[Correlaire]] 5, 308 [[The Third Dawn|TD]]. They were all solo adventurers who had signed up so they decided to group up for the treasure hunt. 
