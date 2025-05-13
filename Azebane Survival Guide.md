@@ -10,4 +10,4 @@ Party:
 - [[Valorian]]
 
 ## Session 0
-Livia, Istara and Victus first arrived in Fenhaven on Correlaire 5, 
+Livia, Istara and Victus first arrived in Fenhaven on Correlaire 5, 308 TD. They were all 
