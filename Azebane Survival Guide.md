@@ -8,3 +8,6 @@ Party:
 - [[Rarkon]]
 - [[Vaey Victus]]
 - [[Valorian]]
+
+## Session 0
+Livia, Istara and Victus first arrived in Fenhaven on Correlaire 5, 

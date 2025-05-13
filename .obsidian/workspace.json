@@ -59,7 +59,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "185d2856da7cbc22",
+  "active": "9266de81f110ccad",
   "lastOpenFiles": [
-    "Vustrana.md",
     "Fenhaven.md",
     "Azebane Survival Guide.md",
+    "Vustrana.md",
     "Untitled.canvas",
     "2025-05-13.md",
     "Aihareroth.md",
