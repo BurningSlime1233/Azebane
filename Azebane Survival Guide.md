@@ -20,4 +20,4 @@ When the party woke up, Larry had gone on a drinking spree. A gnome woman from t
 The party met with a new member, Rowan Embers. The party killed the bandits but were unable to get the bandits as well as the loot back, gaining them only one fragment of three. The birds also returned with [[Swamp Lily|Swamp Lilies]] which can be converted to Arcane Blossoms by treating with magic. The party slept at the tavern to end the day.
 
 ## Session 3
-The part woke up to find Rowan Embers missing from his room and decided to continue their journey. They travelled north west from the city towards a chasm. Upon the chasm sat a [[The Simic Combine|Simic Combine]] [[Zonot]]
+The part woke up to find Rowan Embers missing from his room and decided to continue their journey. They travelled north west from the city towards a chasm. Upon the chasm sits a [[The Simic Combine|Simic Combine]] [[Zonot]]. On the way they ran into a [[Troll]] alone which is rather uncommon. At the chasm they did not enter the Zonot an 
