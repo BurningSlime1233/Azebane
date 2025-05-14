@@ -27,3 +27,12 @@ The party met some [[Myconids]] and [[Kraul]] who took them deeper in the cave. 
 
 ## Session 5
 The party levelled up to 4 and decide to run some errands in Fenhaven before heading towards the final section of the hunt. Istara and Victus visited the temple of Kelemvor where Istara gave a donation and officially began his journey to being a paladin of Kelemvor. He also took 1d4 psychic damage for the first time as he spoke [[Loki]]'s name when his blade was drawn. Victus got the tip to head to [[Einshold]] and visit a Library of [[Azuth]]. 
+
+### Mounts
+
+| Mount | Buy | Rent (Per Day) |
+| ----- | --- | -------------- |
+|       |     |                |
+|       |     |                |
+|       |     |                |
+|       |     |                |
