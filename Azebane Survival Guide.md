@@ -30,9 +30,10 @@ The party levelled up to 4 and decide to run some errands in Fenhaven before hea
 
 ### Mounts
 
-| Mount | Buy | Rent (Per Day) |
-| ----- | --- | -------------- |
-|       |     |                |
-|       |     |                |
-|       |     |                |
-|       |     |                |
+| Mount            | Buy       | Rent Per Day |
+| ---------------- | --------- | ------------ |
+| Giant Frog       | 500gp     | 75gp         |
+| Gant Crocodile   | 350gp     | 60gp         |
+| Giant Lizard     | 250gp     | 60gp         |
+| Dire Mosquito    | 250gp     | 50gp         |
+| Dire Black Drake | Can’t Buy | 200gp        |
