@@ -3,3 +3,11 @@ Fenhaven is an up and coming city in [[Aihareroth]], built in the center of the 
 
 On [[Correlaire]] 6, 308 TD, a treasure hunt style event was held by [[House Deneith]] to unify new adventurers into groups. The treasure hunt ended Correlaire 8 at ~6pm when the [[Anointed Legion of Asmodeus]] successfully exited [[The Labyrinthine Dungeon]]. 
 
+### Mount
+| Mount            | Buy       | Rent Per Day |
+| ---------------- | --------- | ------------ |
+| Giant Frog       | 500gp     | 75gp         |
+| Gant Crocodile   | 350gp     | 60gp         |
+| Giant Lizard     | 250gp     | 60gp         |
+| Dire Mosquito    | 250gp     | 50gp         |
+| Dire Black Drake | Can’t Buy | 200gp        |
