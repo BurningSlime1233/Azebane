@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulphateor.md",
+                "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vulphateor"
+              "title": "Outgoing links from Azebane Survival Guide"
             }
           },
           {
@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9266de81f110ccad",
+  "active": "411d180937779985",
   "lastOpenFiles": [
     "Fenhaven.md",
     "Duchess Zenoishara.md",

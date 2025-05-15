@@ -36,3 +36,4 @@ The party rested outside the entrance to [[The Labyrinthine Dungeon]] where a lo
 The party took some time to gather their bearing and calm down before being forced to trudge forwards. Valorian became non verbal and Livia and Rarkon gave up their gold to Istara so they wouldn't lose money. The last room before the halfway point, the party found themselves in a graveyard puzzle. They got to the halfway point and took a rest before moving forward. During this, Livia received a vision from The Carrion King. The party then continued forward found themselves in a field with crops growing and a man standing by a large cauldron. He gave the party a recipe of Green Delight Vegetable Stew in Draconic. Eventually they were able to locate the ingredients and prepare the stew to move forward. They battled a [[Fire Myrmidon]] and a pack of [[Gnolls]]. Lastly they fought a [[Blood Amniote]] before moving forward to the finale.
 
 ## Session 8
+The final room of the 
