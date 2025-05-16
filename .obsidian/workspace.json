@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0daa64c161c75d2",
+  "active": "adbd16313e3324bb",
   "lastOpenFiles": [
     "Azebane Survival Guide.md",
     "Azebane.md",
