@@ -9,3 +9,7 @@ Aihareroth is one of the five territories of [[Wvaerivior]]. It is the central t
 [[Einshold]]
 [[Fenhaven]]
 [[Zilargo]]
+
+## Leadership
+
+The duke or duchess of Aihareroth is chosen
