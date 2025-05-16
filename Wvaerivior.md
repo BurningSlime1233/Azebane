@@ -20,4 +20,4 @@ Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane
 [[The Nivernic Coast]]
 
 ## Politics
-The Dukes of all 
+The Dukes of all 5 territories vote when it comes to decision making over general or globa
