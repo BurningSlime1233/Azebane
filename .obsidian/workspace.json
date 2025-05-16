@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Obseofaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laikedrari"
+              "title": "Obseofaris"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laikedrari.md",
+                "file": "Obseofaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Laikedrari"
+              "title": "Outgoing links from Obseofaris"
             }
           },
           {
@@ -211,6 +211,7 @@
   "lastOpenFiles": [
     "Azebane Geography.md",
     "Azebane.md",
+    "Laikedrari.md",
     "Fenhaven.md",
     "Aihareroth.md",
     "Wvaerivior.md",
@@ -221,7 +222,6 @@
     "2025-05-13.md",
     "Obseofaris.md",
     "Vulphateor.md",
-    "Laikedrari.md",
     "The Ashen Precipice.md",
     "Azers.md",
     "Races (Playable).md",
