@@ -12,4 +12,4 @@ Aihareroth is one of the five territories of [[Wvaerivior]]. It is the central t
 
 ## Leadership
 
-The duke or duchess of Aihareroth is voted in by the populace from a group of valid applicants. The Duke or Duchess lasts for a term of 10 years and can only be impeached in 3 ways, A total majority vote from either all 4 other dukes, all 13 houses or all other applicants for the position who must also agree on an apropriate 
+The duke or duchess of Aihareroth is voted in by the populace from a group of valid applicants. The Duke or Duchess lasts for a term of 10 years and can only be impeached in 3 ways, A total majority vote from either all 4 other dukes, all 13 houses or all other applicants for the position who must also agree on an appropriate replacement.
