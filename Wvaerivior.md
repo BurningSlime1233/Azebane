@@ -20,4 +20,4 @@ Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane
 [[The Nivernic Coast]]
 
 ## Politics
-The Dukes of all 5 territories vote when it comes to decision making over general or global problems. If the problem pertains to one territory, the vote of the Duke of that territory counts as 3 votes so they can only be overruled by all 4 other Dukes disagreeing with them. Each Duke 
+The Dukes of all 5 territories vote when it comes to decision making over general or global problems. If the problem pertains to one territory, the vote of the Duke of that territory counts as 3 votes so they can only be overruled by all 4 other Dukes disagreeing with them. Each Duke is elected or chosen in their own way and is not standardized.
