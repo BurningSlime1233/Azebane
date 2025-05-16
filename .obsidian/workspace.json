@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obseofaris.md",
+                "file": "Vulphateor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obseofaris"
+              "title": "Vulphateor"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obseofaris.md",
+                "file": "Vulphateor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obseofaris"
+              "title": "Outgoing links from Vulphateor"
             }
           },
           {
@@ -209,6 +209,9 @@
   },
   "active": "7ebbc70471a9ebeb",
   "lastOpenFiles": [
+    "Obseofaris.md",
+    "Shoproterron Empire.md",
+    "Cirittapan.md",
     "Azebane Geography.md",
     "Azebane.md",
     "Laikedrari.md",
@@ -220,17 +223,14 @@
     "Vustrana.md",
     "Untitled.canvas",
     "2025-05-13.md",
-    "Obseofaris.md",
     "Vulphateor.md",
     "The Ashen Precipice.md",
     "Azers.md",
     "Races (Playable).md",
-    "Shoproterron Empire.md",
     "Monastic Order.md",
     "Amarunda Empire.md",
     "Exar'mu'sharn, the Abyssal Rot.md",
     "Isruph.md",
-    "Cirittapan.md",
     "Laikedrarian Velds.md",
     "Moons.md",
     "Planets.md",
