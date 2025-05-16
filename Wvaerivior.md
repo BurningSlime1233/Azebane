@@ -19,4 +19,5 @@ Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane
 [[Ibreodegalla]]
 [[The Nivernic Coast]]
 
-## 
+## Politics
+The Dukes of all 
