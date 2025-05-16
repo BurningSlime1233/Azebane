@@ -1,3 +1,4 @@
+#vulphateor #obseofaris #country #north_obseofaris 
 Vulphateor is one of the countries in North [[Obseofaris]]. Its entire territory is one large plateau called [[The Seared Flats]] of Vulphateor. 
 
 It is a large plateau 3 kilometers above sea level with its land rising above its surroundings like a flat wall. It is formed entirely of black and dark gray igneous rock like basalt with large onyx formations. The Seared Flats are peppered with large volcanoes and dozens of rivers of molten lava which form beautiful and deadly lava waterfalls at the borders of Vulphateor. This country is extremely hot at about 60ºC on average.
