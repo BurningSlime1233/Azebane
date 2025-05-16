@@ -73,8 +73,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +126,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wvaerivior.md",
+                "file": "Aihareroth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wvaerivior"
+              "title": "Outgoing links from Aihareroth"
             }
           },
           {
@@ -222,14 +222,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ebbc70471a9ebeb",
+  "active": "c0daa64c161c75d2",
   "lastOpenFiles": [
-    "Aihareroth.md",
-    "Wvaerivior.md",
-    "Duchess Zenoishara.md",
-    "Fenhaven.md",
     "Azebane Survival Guide.md",
     "Azebane.md",
+    "Wvaerivior.md",
+    "Aihareroth.md",
+    "Duchess Zenoishara.md",
+    "Fenhaven.md",
     "Vustrana.md",
     "Untitled.canvas",
     "2025-05-13.md",
