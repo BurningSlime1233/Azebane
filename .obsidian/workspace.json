@@ -73,7 +73,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aihareroth.md",
+                "file": "Wvaerivior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aihareroth"
+              "title": "Outgoing links from Wvaerivior"
             }
           },
           {
@@ -221,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "185d2856da7cbc22",
+  "active": "7ebbc70471a9ebeb",
   "lastOpenFiles": [
-    "Wvaerivior.md",
     "Aihareroth.md",
+    "Wvaerivior.md",
     "Duchess Zenoishara.md",
     "Fenhaven.md",
     "Azebane Survival Guide.md",
