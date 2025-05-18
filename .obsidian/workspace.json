@@ -59,7 +59,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fenhaven.md",
+                "file": "Azebane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fenhaven"
+              "title": "Outgoing links from Azebane"
             }
           },
           {
@@ -207,8 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ebbc70471a9ebeb",
+  "active": "e709b74b019225db",
   "lastOpenFiles": [
+    "Azebane Survival Guide.md",
+    "Fenhaven.md",
     "The Stowyyth Dominion.md",
     "Obseofaris.md",
     "Vulphateor.md",
@@ -217,10 +220,8 @@
     "Azebane Geography.md",
     "Azebane.md",
     "Laikedrari.md",
-    "Fenhaven.md",
     "Aihareroth.md",
     "Wvaerivior.md",
-    "Azebane Survival Guide.md",
     "Duchess Zenoishara.md",
     "Vustrana.md",
     "Untitled.canvas",
