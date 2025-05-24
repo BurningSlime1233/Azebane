@@ -4,3 +4,4 @@
 - Githyanki Gish
 - Human Echo Knight
 - Half Dragon Barbarian / Paladin
+- Thri Kreen 
