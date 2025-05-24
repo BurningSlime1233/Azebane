@@ -2,6 +2,7 @@
 
 Azebane Survival Guide is the first campaign played in the world of [[Azebane]]. 
 Party:
+- [[Cheonma Muwi]]
 - [[Elise]]
 - [[Istara Galaxtien]]
 - [[Livia]]
