@@ -2,7 +2,7 @@
 ## Rivals
 - Orc Champion
 - Githyanki Gish
-- Human Echo Knight
+- Human Bioarchitect
 - Half Dragon Barbarian / Paladin
-- Thri Kreen
+- Thri Kreen 
 - Dreadnaught Channeler
