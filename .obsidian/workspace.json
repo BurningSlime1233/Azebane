@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fenhaven.md",
+                "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fenhaven"
+              "title": "Outgoing links from Azebane Survival Guide"
             }
           },
           {
@@ -193,14 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ebbc70471a9ebeb",
+  "active": "e709b74b019225db",
   "lastOpenFiles": [
+    "Fenhaven.md",
     "Azebane Survival Guide.md",
     "Aihareroth.md",
     "Wvaerivior.md",
     "Azebane Geography.md",
     "Azebane.md",
-    "Fenhaven.md",
     "Cheonma Muwi.md",
     "The Stowyyth Dominion.md",
     "Obseofaris.md",
