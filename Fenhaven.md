@@ -11,3 +11,4 @@ On [[Correlaire]] 6, 308 TD, a treasure hunt style event was held by [[House Den
 | Giant Lizard     | 250gp     | 60gp         |
 | Dire Mosquito    | 250gp     | 50gp         |
 | Dire Black Drake | Can’t Buy | 200gp        |
+There are 4 main gates in Fenhav
