@@ -1,3 +1,6 @@
 ## Major Cities
 [[Varna]]
-[[Za]]
+[[Zarash'ak]]
+
+House Tharashk in Zarash'ak
+House Vadalis in Varna
