@@ -3,4 +3,5 @@
 [[Talena]]
 [[Karrlakton]]
 
-House G
+House Ghallanda in Talena
+House Deneith in Karrlakton
