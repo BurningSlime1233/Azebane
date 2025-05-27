@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fenhaven.md",
+                "file": "The Nivernic Coast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fenhaven"
+              "title": "The Nivernic Coast"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Wvaerivior"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wvaerivior.md",
+                "file": "The Nivernic Coast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wvaerivior"
+              "title": "Outgoing links from The Nivernic Coast"
             }
           },
           {
@@ -184,13 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e709b74b019225db",
+  "active": "7ebbc70471a9ebeb",
   "lastOpenFiles": [
+    "Wvaerivior.md",
     "Aihareroth.md",
+    "The Nivernic Coast.md",
+    "Fenhaven.md",
     "Major Factions, Guilds and Organizations.md",
     "Azebane.md",
-    "Wvaerivior.md",
-    "Fenhaven.md",
     "Azebane Survival Guide.md",
     "Azebane Geography.md",
     "Cheonma Muwi.md",
@@ -212,7 +212,6 @@
     "Exar'mu'sharn, the Abyssal Rot.md",
     "Isruph.md",
     "Laikedrarian Velds.md",
-    "Moons.md",
     "Untitled"
   ]
 }
