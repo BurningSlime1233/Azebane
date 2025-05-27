@@ -35,7 +35,8 @@
               "title": "Wvaerivior"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Nivernic Coast.md",
+                "file": "Wvaerivior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Nivernic Coast"
+              "title": "Outgoing links from Wvaerivior"
             }
           },
           {
@@ -183,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ebbc70471a9ebeb",
+  "active": "e709b74b019225db",
   "lastOpenFiles": [
+    "The Nivernic Coast.md",
     "Wvaerivior.md",
     "Aihareroth.md",
-    "The Nivernic Coast.md",
     "Fenhaven.md",
     "Major Factions, Guilds and Organizations.md",
     "Azebane.md",
