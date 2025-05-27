@@ -49,8 +49,7 @@
               "title": "Aihareroth"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wvaerivior.md",
+                "file": "Attraeokhannad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wvaerivior"
+              "title": "Outgoing links from Attraeokhannad"
             }
           },
           {
@@ -198,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e709b74b019225db",
+  "active": "c39c9116781fc344",
   "lastOpenFiles": [
-    "Attraeokhannad.md",
     "Wvaerivior.md",
+    "Attraeokhannad.md",
     "Akadovia.md",
     "Aihareroth.md",
     "The Nivernic Coast.md",
