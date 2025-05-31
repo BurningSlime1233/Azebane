@@ -129,7 +129,7 @@
               "state": {
                 "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Azebane Survival Guide"
@@ -183,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e709b74b019225db",
+  "active": "411d180937779985",
   "lastOpenFiles": [
     "Wvaerivior.md",
     "Ibreodegalla.md",
