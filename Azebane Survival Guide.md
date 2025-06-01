@@ -47,3 +47,4 @@ The Session starts with Elise heading to the tavern to sleep but she spots a gro
 
 4 hours later, in the morning, Istara and Victus wake up and head down for coffee. Rarkon, returning from his walk, joins them and so does Elise, just waking up. Istara talks about leaving the party and decides to follow the path of [[Bahamut]] and abandon Kelemvor. He was quite unhappy with his task to 'babysit' Victus and seeks to redeem himself. The rest of the party plans to head to Einshold after Livia's funeral in a few days. While they are leaving, they are interrupted by the Anointed Legion of Asmodeus who apologize to them about Livia's death. The party does not take this well.
 
+The party heads out on a shopping trip but they spot commotion at the city center where they find the mutilated body of Rowan Embers. Upon investigating, th
