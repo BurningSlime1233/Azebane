@@ -55,4 +55,4 @@ They head down an alleyway, following the mercenaries tracks to a door requiring
 
 Meanwhile Istara is in the temple of Bahamut. He talks to the head paladin who accepts Istara. Right before he says that he commits to being a paladin of Bahamut, Aziraphale, stops time and speaks to Istara in his mind. He asks one final time if he wants to break his pact. Istara says yes and Aziraphale tearfully breaks the pact. This causes the permanent 8th level mind blank and mental barrier that Istara had to fade, flooding him with his past memories. That same moment, the Mentor is now able to find Istara and appears. The Mentor stuns both Istara and the Paladin, kill Istara and leaves with the Divinity Engine.
 
-When being taken to the Fugue Plane, Istara finds himself in a forest whre he makes a deal to be a servant to 
+When being taken to the Fugue Plane, Istara finds himself in a forest where he makes a deal to be a servant to what he believes to be Psilofyr but is in reality [[Fraz']]
