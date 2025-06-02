@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane Survival Guide.md",
+                "file": "Elise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane Survival Guide"
+              "title": "Elise"
             }
           }
         ]
@@ -182,6 +182,7 @@
   "active": "e709b74b019225db",
   "lastOpenFiles": [
     "Azebane Survival Guide.md",
+    "Elise.md",
     "Aihareroth.md",
     "Wvaerivior.md",
     "Ibreodegalla.md",
@@ -207,7 +208,6 @@
     "Azers.md",
     "Races (Playable).md",
     "Monastic Order.md",
-    "Amarunda Empire.md",
     "Untitled"
   ]
 }
