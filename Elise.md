@@ -1,1 +1,1 @@
-Elise is a [[The Corrupted|corrupted human]] born to a human 
+Elise is a [[The Corrupted|corrupted human]] born to a human and (monster)
