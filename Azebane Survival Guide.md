@@ -53,4 +53,4 @@ The party heads out on a shopping trip but they spot commotion at the city cente
 
 They head down an alleyway, following the mercenaries tracks to a door requiring a password. Victus attempts to guess, triggering a glyph of warding hurting the party and alerting the guards. They run out and meet the guards. Rarkon slips away and Elise and Victus fail to distract the guards. Elise resist arrest but fails and she and Victus are taken in for interrogation. She is put under the [[Zone of Truth]]. She says that they are adventurers investigating a mystery which convinces the guards to let her go. 
 
-Meanwhile Istara is in the temple of Bahamut. He talks to the 
+Meanwhile Istara is in the temple of Bahamut. He talks to the head paladin who accepts Istara. Right before he says that he commits to being a paladin of Bahamut, Aziraphale, stops time and speaks to Istara in his mind. He asks one final time i
