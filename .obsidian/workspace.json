@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Azebane Survival Guide"
             }
-          },
-          {
-            "id": "cac1a129287c80fa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Azebane Survival Guide"
             }
           },
           {
@@ -189,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cac1a129287c80fa",
+  "active": "e709b74b019225db",
   "lastOpenFiles": [
-    "Aihareroth.md",
     "Azebane Survival Guide.md",
+    "Aihareroth.md",
     "Wvaerivior.md",
     "Ibreodegalla.md",
     "Attraeokhannad.md",
