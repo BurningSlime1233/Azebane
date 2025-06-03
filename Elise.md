@@ -1,3 +1,3 @@
 Elise is a [[The Corrupted|corrupted human]] born to a [[Yuan-Ti]] Pureblood mother and [[Cursed Blood]] father. Her father was a wild blood, [[Blood Hunter]] and the mother a Wizard. The blood hunter transformation should have made her father infertile but due to his cursed nature, it did not work correctly, causing the resulting offspring to be born corrupted.
 
-Her father was travelling and died when the mother found out she was pregnant.
+Her father was travelling and had died by the time the mother found out she was pregnant. 
