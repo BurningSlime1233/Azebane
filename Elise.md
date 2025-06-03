@@ -1,1 +1,1 @@
-Elise is a [[The Corrupted|corrupted human]] born to a [[Yuan-Ti]] Pureblood mother and [[Cursed Blood]], Wi
+Elise is a [[The Corrupted|corrupted human]] born to a [[Yuan-Ti]] Pureblood mother and [[Cursed Blood]] father. Her father was a wild blood, [[Blood Hunter]] and the mother a Wizard. 
