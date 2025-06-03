@@ -1,1 +1,1 @@
-Elise is a [[The Corrupted|corrupted human]] born to a human and (monster)
+Elise is a [[The Corrupted|corrupted human]] born to a [[Yuan-Ti]] Pureblood mother and [[Cursed Blood]], Wi
