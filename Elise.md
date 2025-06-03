@@ -4,4 +4,4 @@ Her father was travelling and had died by the time the mother found out she was 
 
  Eksolas' constant failure caused her to gradually lose her sanity as she would watch her daughter get closer and closer to death and was helpless. She began to stay in her tower for longer and longer durations of time and after a point would only leave in order to get resources to help Elise. She became more and more paranoid of others discovering Elise and how poorly it could go for her. The wizards from her former place of work found out she was losing her sanity and reported her to greater authorities. These authorities would travel to her tower where they apprehended her and took her into the Astral Plane to be imprisoned until cured. Eksolas, before her arrest, saw the authorities coming and hid Elise in the basement with all the accumulated arcane batteries.
 
-Elise stayed there for what 
+Elise stayed there for what felt close 2 weeks, barely sustaining herself on the little food and water available to her.
