@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra.md",
+                "file": "Attraeokhannad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Umbra"
+              "title": "Attraeokhannad"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "e709b74b019225db",
   "lastOpenFiles": [
-    "Elise.md",
+    "Amarunda Empire.md",
     "Umbra.md",
+    "Elise.md",
     "Yuan-Ti.md",
     "Azebane Survival Guide.md",
     "Aihareroth.md",
@@ -207,7 +208,6 @@
     "Untitled.canvas",
     "2025-05-13.md",
     "The Ashen Precipice.md",
-    "Azers.md",
     "Untitled"
   ]
 }
