@@ -2,5 +2,5 @@
 [[Varna]]
 [[Zarash'ak]]
 
-House Tharashk in Zarash'ak
-House Vadalis in Varna
+[[House Tharashk]] in Zarash'ak
+[[House Vadalis]] in Varna

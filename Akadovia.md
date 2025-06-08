@@ -3,5 +3,5 @@
 [[Talena]]
 [[Karrlakton]]
 
-House Ghallanda in Talena
-House Deneith in Karrlakton
+[[House Ghallanda]] in Talena
+[[House Deneith]] in Karrlakton
