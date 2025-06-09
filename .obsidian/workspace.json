@@ -11,10 +11,14 @@
             "id": "21c258706a5a78a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Aihareroth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aihareroth"
             }
           }
         ]
@@ -178,11 +182,11 @@
   },
   "active": "21c258706a5a78a5",
   "lastOpenFiles": [
+    "Fenhaven.md",
     "Gods.md",
     "Azebane.md",
     "Gods Table.md",
     "Chromatic Dragons.md",
-    "Fenhaven.md",
     "Races (Playable).md",
     "Vulphateor.md",
     "Ibreodegalla.md",
