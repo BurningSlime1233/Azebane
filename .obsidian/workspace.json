@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aihareroth.md",
+                "file": "Elise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aihareroth"
+              "title": "Elise"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "21c258706a5a78a5",
   "lastOpenFiles": [
+    "Aihareroth.md",
     "Fenhaven.md",
     "Gods.md",
     "Azebane.md",
@@ -201,7 +202,6 @@
     "Umbra.md",
     "Yuan-Ti.md",
     "Azebane Survival Guide.md",
-    "Aihareroth.md",
     "Wvaerivior.md",
     "The Nivernic Coast.md",
     "Major Factions, Guilds and Organizations.md",
