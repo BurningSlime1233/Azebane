@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods Table.md",
+                "file": "Gods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gods Table"
+              "title": "Gods"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods Table.md",
+                "file": "Gods.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gods Table"
+              "title": "Outline of Gods"
             }
           },
           {
@@ -183,9 +183,11 @@
   },
   "active": "21c258706a5a78a5",
   "lastOpenFiles": [
+    "Azebane.md",
+    "Gods.md",
+    "Gods Table.md",
+    "Chromatic Dragons.md",
     "Fenhaven.md",
-    "Gods Table.md",
-    "Gods Table.md",
     "Races (Playable).md",
     "Vulphateor.md",
     "Ibreodegalla.md",
@@ -196,7 +198,6 @@
     "Elise.md",
     "Duchess Zenoishara.md",
     "Azebane Geography.md",
-    "Azebane.md",
     "Amarunda Empire.md",
     "Umbra.md",
     "Yuan-Ti.md",
@@ -208,7 +209,6 @@
     "Cheonma Muwi.md",
     "The Stowyyth Dominion.md",
     "Obseofaris.md",
-    "Shoproterron Empire.md",
     "Untitled.canvas",
     "Untitled"
   ]
