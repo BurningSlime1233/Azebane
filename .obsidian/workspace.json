@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods.md",
+                "file": "Elise.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gods"
+              "title": "Outline of Elise"
             }
           },
           {
@@ -162,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +180,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "21c258706a5a78a5",
+  "active": "e1349dca9bb89c74",
   "lastOpenFiles": [
     "Aihareroth.md",
     "Fenhaven.md",
