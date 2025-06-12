@@ -1,0 +1,1 @@
+Rarkon is a [[Kijin]] [[Jaeger]] and Child of [[Baphomet]]. His mother, Torah Willowoak, was a human cleric who had travelled to [[The Abyss]] to battle Baphomet. He has a brother named [[Cassadius]]. He and Cassadius were kept in Baphomet's [[Tower of Science]] where Baphomet and multiple [[Sibriex]] Fleshwarpers would 

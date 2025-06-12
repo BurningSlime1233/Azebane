@@ -1,1 +1,1 @@
-Kalashtar
+Zenoishara is the [[Kalashtar]] duke of [[Aihareroth]]. She is a Level 15 Psi Warrior Fighter.
