@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amarunda Empire.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amarunda Empire"
+              "title": "Azebane Survival Guide"
+            }
+          },
+          {
+            "id": "4435c9fe08c0ce3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -181,15 +191,16 @@
   },
   "active": "b8ca9b26e1b0c764",
   "lastOpenFiles": [
-    "The Silver Valley of Rakluthan.md",
+    "Azebane Survival Guide.md",
+    "Azebane Geography.md",
     "Amarunda Empire.md",
+    "The Silver Valley of Rakluthan.md",
     "The Xiburg Dynasty.md",
     "Xia-Ruph System.md",
     "Akadovia.md",
     "Aihareroth.md",
     "Ibreodegalla.md",
     "Duchess Zenoishara.md",
-    "Azebane Survival Guide.md",
     "Laikedrari.md",
     "Isruph.md",
     "Gods Table.md",
@@ -206,7 +217,6 @@
     "Bralzyrudimyth.md",
     "Fenhaven.md",
     "Gods.md",
-    "Azebane.md",
     "Untitled.canvas",
     "Untitled"
   ]
