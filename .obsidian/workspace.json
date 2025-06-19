@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane Geography.md",
+                "file": "Thraeranyballyth, the Slumbering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane Geography"
+              "title": "Thraeranyballyth, the Slumbering"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azebane Geography.md",
+                "file": "Thraeranyballyth, the Slumbering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azebane Geography"
+              "title": "Backlinks for Thraeranyballyth, the Slumbering"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azebane Geography.md",
+                "file": "Thraeranyballyth, the Slumbering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Azebane Geography"
+              "title": "Outgoing links from Thraeranyballyth, the Slumbering"
             }
           },
           {
@@ -206,9 +206,12 @@
   },
   "active": "4435c9fe08c0ce3a",
   "lastOpenFiles": [
+    "Xia-Ruph System.md",
+    "Thraeranyballyth, the Slumbering.md",
+    "Azebane Geography.md",
+    "The Terroyster.md",
     "Azebane.md",
     "Azebane Survival Guide.md",
-    "Azebane Geography.md",
     "Attraeokhannad.md",
     "Amarunda Empire.md",
     "Akadovia.md",
@@ -218,7 +221,6 @@
     "Gods Table.md",
     "Annam All-Father.md",
     "Moons.md",
-    "Xia-Ruph System.md",
     "Planets.md",
     "Wvaerivior.md",
     "House Vadalis.md",
@@ -230,8 +232,6 @@
     "House Medani.md",
     "Races (Playable).md",
     "House Lyrandar.md",
-    "House Kundarak.md",
-    "Ibreodegalla.md",
     "Untitled.canvas",
     "Untitled"
   ]
