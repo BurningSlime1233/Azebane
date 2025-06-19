@@ -37,6 +37,7 @@ The following is a list of major races seen across the [[Xia-Ruph System]] and t
 ## [[Goliath]]
 ## [[Hadozee]]
 ## [[Halfling]]
+## [[Half Elf]]
 ## [[Harengon]]
 ## [[Hexblood]]
 ## [[Highbreed]]
