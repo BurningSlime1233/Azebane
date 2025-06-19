@@ -9,7 +9,7 @@ Wvaerivior is one of the six [[Continent|continents]] on the planet of [[Azebane
 - [[House Lyrandar]]
 - [[House Medani]]
 - [[House Orien]]
-- [[House Phiralan]]
+- [[House Phiarlan]]
 - [[House Sivis]]
 - [[House Tharashk]]
 - [[House Vadalis]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Medani.md",
+                "file": "Wvaerivior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Medani"
+              "title": "Wvaerivior"
             }
           },
           {
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Medani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for House Medani"
+              "title": "Backlinks"
             }
           },
           {
@@ -138,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "House Medani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from House Medani"
+              "title": "Outgoing links"
             }
           },
           {
@@ -203,17 +201,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4435c9fe08c0ce3a",
+  "active": "989deb8b7223245c",
   "lastOpenFiles": [
+    "Wvaerivior.md",
+    "House Vadalis.md",
+    "House Tharashk.md",
+    "House Sivis.md",
     "Aihareroth.md",
     "The Nivernic Coast.md",
+    "House Phiarlan.md",
+    "Attraeokhannad.md",
+    "Akadovia.md",
+    "House Orien.md",
     "House Medani.md",
     "Races (Playable).md",
-    "Wvaerivior.md",
     "House Lyrandar.md",
     "House Kundarak.md",
     "Ibreodegalla.md",
-    "Akadovia.md",
     "Azebane Geography.md",
     "Obseofaris.md",
     "Azebane.md",
@@ -225,12 +229,6 @@
     "The Imperceptible.md",
     "Human Subraces.md",
     "Avariel.md",
-    "Detrovite.md",
-    "Attraeokhannad.md",
-    "Amarunda Empire.md",
-    "Azebane Survival Guide.md",
-    "The Silver Valley of Rakluthan.md",
-    "The Xiburg Dynasty.md",
     "Untitled.canvas",
     "Untitled"
   ]
