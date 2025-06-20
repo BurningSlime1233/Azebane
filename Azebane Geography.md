@@ -12,7 +12,7 @@
 - [[The Terroyster|The Sparkling Expanse of the Terroyster]]
 # [[Seas]]
 - [[The Plaigus Sea]]
-- [[The Kkarlemonnt Sea]]
+- [[The Kkharlemmonnt Sea]]
 - [[The Bredsing Sea]]
 - [[The Attletry Sea]]
 - [[The Voxvay Sea]]

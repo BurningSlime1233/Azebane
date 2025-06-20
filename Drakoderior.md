@@ -1,0 +1,1 @@
+[[Drakoderior]] is one of six [[Continent|continents]] in the world of [[Azebane]]. It is located in the north west, it touches [[The Athamer]], [[The Terroyster]] and [[The Kkharlemmonnt Sea]]
