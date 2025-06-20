@@ -1,3 +1,4 @@
+The Shattered Isles are one of the six [[Continent|continents]] of [[Azebane]]. It is located in the south.
 ## Major Islands and Locations
 - [[Atibrook Skerry]]
 - [[Bouchercroft Skerry]]
