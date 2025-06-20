@@ -1,4 +1,4 @@
 Mark of Handling
-Race: [[Gnome]]
+Race: [[Human]]
 Headquarters: Foalswood, [[Varna]], [[Attraeokhannad]]
 Specialties: Animal training and Breeding

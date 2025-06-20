@@ -11,10 +11,14 @@
             "id": "989deb8b7223245c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Aziraphale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aziraphale"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aziraphale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Aziraphale"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aziraphale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Aziraphale"
             }
           },
           {
@@ -175,8 +181,24 @@
   },
   "active": "989deb8b7223245c",
   "lastOpenFiles": [
-    "Thraeranyballyth, the Slumbering.md",
+    "Aziraphale.md",
+    "House Lyrandar.md",
+    "House Medani.md",
+    "House Orien.md",
+    "House Sivis.md",
+    "House Tharashk.md",
+    "House Vadalis.md",
+    "Ibreodegalla.md",
+    "House Phiarlan.md",
+    "House Kundarak.md",
     "House Ghallanda.md",
+    "House Deneith.md",
+    "House Cannith.md",
+    "Races (Playable).md",
+    "Planets.md",
+    "The Imperceptible.md",
+    "Human Subraces.md",
+    "Thraeranyballyth, the Slumbering.md",
     "Aihareroth.md",
     "Xia-Ruph System.md",
     "Azebane Geography.md",
@@ -185,22 +207,6 @@
     "Azebane Survival Guide.md",
     "Attraeokhannad.md",
     "Amarunda Empire.md",
-    "Akadovia.md",
-    "Fenhaven.md",
-    "Gods.md",
-    "Gods Table.md",
-    "Annam All-Father.md",
-    "Moons.md",
-    "Planets.md",
-    "Wvaerivior.md",
-    "House Vadalis.md",
-    "House Tharashk.md",
-    "House Sivis.md",
-    "The Nivernic Coast.md",
-    "House Phiarlan.md",
-    "House Orien.md",
-    "House Medani.md",
-    "Races (Playable).md",
     "Untitled.canvas",
     "Untitled"
   ]

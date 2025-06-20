@@ -1,4 +1,4 @@
 Mark of Finding
-Race: [[Orc]]
+Race: [[Half Orc]]
 Headquarters: [[Zarash'ak]], [[Attraeokhannad]]
 Specialties: Bounty hunting, Prospecting

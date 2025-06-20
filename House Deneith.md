@@ -1,4 +1,4 @@
 Mark of Sentinel
-Race: [[Kalashtar]]
+Race: [[Elf]]
 Headquarters: Sentinel Tower, [[Karrlakton]], [[Akadovia]]
 Specialties: Mercenaries, Bodyguard

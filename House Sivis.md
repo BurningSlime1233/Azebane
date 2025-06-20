@@ -1,4 +1,4 @@
 Mark of Scribing
-Race: [[Elf]]
+Race: [[Kalashtar]]
 Headquarters: Labyrinth, [[Zilargo]], [[Aihareroth]]
 Specialties: Communication, Translation

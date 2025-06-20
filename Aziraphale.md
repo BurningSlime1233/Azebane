@@ -1,0 +1,1 @@
+Aziraphale is one of the 24 [[Solar|Solars]], a type of [[Celestial]] [[Angel]], that remain after the [[Dawn War]]. 

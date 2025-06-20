@@ -1,7 +1,7 @@
 1. [[Archmage Raziel]] - [[Amperi]] Scribes Wizard [[Aethoros]]
 2. [[Exemplar Reinrassig IV]] - [[Highbreed]] Ancients Paladin [[Ethualabos]]
 3. [[Arkishtan of The Black Flame]] - [[Conductoid]] Shadow Weaver Ranger [[Nesanon]]
-4. [[Void Disciple Garsh’drarri]] - [[Human Subraces|Human]] Void Druid [[Azebane]]
+4. [[Void Disciple Garsh’drarri]] - [[Human]] Void Druid [[Azebane]]
 5. [[Weavewrath Lyarnah]] - [[Detrovite]] Weaveknight [[Cirilinov]]
 6. [[Fateshaper Eirishneel]] - [[Avariel]] Clockwork Sorcerer from the [[Feywild]]
 7. [[Sardior]], the Carmine King - God of Gem Dragons and [[Psionics]]
