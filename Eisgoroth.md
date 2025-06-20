@@ -1,0 +1,3 @@
+The lands of Eisgoroth are ruled by the faceless [[Stone Queen]] who killed the former ruler and took over the kingdom. She appears to have no interest in ruling her kingdom directly and none who enter her home are ever seen again. She instead rules indirectly through nobles who use divination magic to communicate with her. None know who the Queen is or what she does in her castle.
+
+The Stone Queen’s castle resides on the top of a mountain called the [[Spire of Still Faces]] at the edge of the capital city [[Valenar]]. The mountain appears to be covered in screaming humanoid faces, hence its name.
