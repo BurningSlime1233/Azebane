@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aziraphale.md",
+                "file": "The Ceruminal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aziraphale"
+              "title": "The Ceruminal"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aziraphale.md",
+                "file": "The Ceruminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aziraphale"
+              "title": "Backlinks for The Ceruminal"
             }
           },
           {
@@ -181,6 +181,9 @@
   },
   "active": "989deb8b7223245c",
   "lastOpenFiles": [
+    "Xeomidion.md",
+    "The Ceruminal.md",
+    "Obseofaris.md",
     "Aziraphale.md",
     "House Lyrandar.md",
     "House Medani.md",
@@ -204,9 +207,6 @@
     "Azebane Geography.md",
     "The Terroyster.md",
     "Azebane.md",
-    "Azebane Survival Guide.md",
-    "Attraeokhannad.md",
-    "Amarunda Empire.md",
     "Untitled.canvas",
     "Untitled"
   ]
