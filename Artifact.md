@@ -3,6 +3,7 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 ## List of Artifacts
 [[Adze of Annam]]
 [[Agony]]
+[[Ankh of Life]]
 [[Axe of the Dwarvish Lords]]
 [[Baba Yaga's Mortar and Pestle]]
 [[Blade of Avernus]]
@@ -14,6 +15,7 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 [[Eye and Hand of Vecna]]
 [[Honor's Last Stand]]
 [[Iggwilv's Cauldron]]
+[[Jathiman Dagger]]
 [[Mace of the Black Crown]]
 [[Mighty Servant of Leuk-o]]
 [[Orrey of the Wanderer]]
