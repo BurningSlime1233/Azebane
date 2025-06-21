@@ -1,7 +1,7 @@
 # [[Continent|Continents]]
 ## - [[Aumidan]]
 
-1. The Maztikha’ar Empire - Capital:
+1. [[The Maztikha’ar Empire]] - Capital: 
 2. [[The Kingdom of Utogrenonia]] - Capital:
 3. [[The Vrorshal Dynasty]] - Capital:
 4. [[The Zaicenos Empire]] - Capital:
