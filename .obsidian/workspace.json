@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artifact.md",
+                "file": "Umbra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artifact"
+              "title": "Umbra"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artifact.md",
+                "file": "Umbra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Artifact"
+              "title": "Outgoing links from Umbra"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "4c46d160c3c4d504",
   "lastOpenFiles": [
-    "Aihareroth.md",
     "Artifact.md",
+    "Aihareroth.md",
     "Aziraphale.md",
     "The Vrorshal Dynasty.md",
     "Amarunda Empire.md",
