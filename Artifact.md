@@ -8,3 +8,6 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 [[Book of Exalted Deeds]]
 [[Book of Vile Darkness]]
 [[Demonomicon of Iggwilv]]
+[[Extermination]]
+[[Eye and Hand of Vecna]]
+[[Shattered Crown of the Obyriths]]
