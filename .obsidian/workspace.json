@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra.md",
+                "file": "Artifact.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Umbra"
+              "title": "Artifact"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umbra.md",
+                "file": "Artifact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Umbra"
+              "title": "Outgoing links from Artifact"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "4c46d160c3c4d504",
   "lastOpenFiles": [
+    "Umbra.md",
     "Artifact.md",
     "Aihareroth.md",
     "Aziraphale.md",
@@ -207,7 +208,6 @@
     "Krae'Naikh.md",
     "Eisgoroth.md",
     "The Aitebiish Kingdom.md",
-    "The Kkharlemmonnt Sea.md",
     "Untitled.canvas",
     "Untitled"
   ]
