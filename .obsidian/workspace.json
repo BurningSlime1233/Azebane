@@ -13,68 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane Geography.md",
+                "file": "Aumidan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane Geography"
-            }
-          },
-          {
-            "id": "8bcb291c2781f516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Nivernic Coast.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Nivernic Coast"
-            }
-          },
-          {
-            "id": "597860f06cfe9615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shoproterron Empire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shoproterron Empire"
-            }
-          },
-          {
-            "id": "3d3e967d41b3d232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cirittapan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cirittapan"
-            }
-          },
-          {
-            "id": "5063905eb50c59d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laikedrari.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laikedrari"
+              "title": "Aumidan"
             }
           }
         ]
@@ -150,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azebane Geography.md",
+                "file": "Aumidan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azebane Geography"
+              "title": "Backlinks for Aumidan"
             }
           },
           {
@@ -169,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azebane Geography.md",
+                "file": "Aumidan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Azebane Geography"
+              "title": "Outgoing links from Aumidan"
             }
           },
           {
@@ -238,8 +182,8 @@
   },
   "active": "4c46d160c3c4d504",
   "lastOpenFiles": [
-    "The Nivernic Coast.md",
     "Azebane Geography.md",
+    "The Nivernic Coast.md",
     "Shoproterron Empire.md",
     "Cirittapan.md",
     "Vustrana.md",
