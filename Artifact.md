@@ -31,6 +31,7 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 [[Sword of Kas]]
 [[Teeth of Dahlver-Nar]]
 [[The Bloody End]]
+[[Twin Crowns of Myrmoran]]
 [[Wand of Orcus]]
 [[Will of the Talon]]
 [[Wyrmskull Throne]]
