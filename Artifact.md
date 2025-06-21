@@ -7,3 +7,4 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 [[Blade of Avernus]]
 [[Book of Exalted Deeds]]
 [[Book of Vile Darkness]]
+[[Demonomicon of Iggwilv]]
