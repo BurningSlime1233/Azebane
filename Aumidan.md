@@ -1,3 +1,4 @@
+#aumidan #azebane #continent 
 Aumidan is on of the six [[Continent|continents]] in the world of [[Azebane]], located in the south east. It Touches [[The Bredsing Sea]], [[The Attletry Sea]] and [[The Voxvay Sea]].
 
 ## History
