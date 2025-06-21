@@ -2,14 +2,17 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 
 ## List of Artifacts
 [[Adze of Annam]]
+[[Agony]]
 [[Axe of the Dwarvish Lords]]
 [[Baba Yaga's Mortar and Pestle]]
 [[Blade of Avernus]]
 [[Book of Exalted Deeds]]
 [[Book of Vile Darkness]]
+[[Deathwalker's Ward]]
 [[Demonomicon of Iggwilv]]
 [[Extermination]]
 [[Eye and Hand of Vecna]]
+[[Honor's Last Stand]]
 [[Iggwilv's Cauldron]]
 [[Mace of the Black Crown]]
 [[Mighty Servant of Leuk-o]]
@@ -25,3 +28,4 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 [[The Bloody End]]
 [[Wand of Orcus]]
 [[Will of the Talon]]
+[[Wyrmskull Throne]]
