@@ -1,35 +1,35 @@
 # [[Continent|Continents]]
 ## - [[Aumidan]]
 
-1. [[The Maztikha’ar Empire]] - Capital: 
-2. [[The Kingdom of Utogrenonia]] - Capital:
-3. [[The Vrorshal Dynasty]] - Capital:
-4. [[The Zaicenos Empire]] - Capital:
+1. [[The Maztikha’ar Empire]] - Capital: [[Noxochitil]]
+2. [[The Kingdom of Utogrenonia]] - Capital: [[Augustomagus]]
+3. [[The Vrorshal Dynasty]] - Capital: [[Staendale]]
+4. [[The Zaicenos Empire]] - Capital: [[New Zaicenia]]
 ## - [[Drakoderior]]
 
-1. [[The Aitebiish Kingdom]] - Capital:
-2. [[Drakkorenth]] - Capital: Khyber
-3. [[Eisgoroth]] - Capital: Valenar
-4. [[Krae'Naikh]] - Capital: Leviadore
-5. [[Shaudrix]] - Capital:
-6. [[Xhorhas]] - Capital:
+1. [[The Aitebiish Kingdom]] - Capital: [[Phoebae]]
+2. [[Drakkorenth]] - Capital: [[Drakken]]
+3. [[Eisgoroth]] - Capital: [[Valenar]]
+4. [[Krae'Naikh]] - Capital: [[Leviadore]]
+5. [[Shaudrix]] - Capital: [[Etherhold]]
+6. [[Xhorhas]] - Capital: [[Whispervale Sanctuary]]
 ## - [[Laikedrari]]
 
-1. [[Amarunda Empire]] - Capital:
-2. [[Exar'mu'sharn, the Abyssal Rot]] - Capital:
-3. [[Vustrana]] - Capital:
-4. [[The Xiburg Dynasty]] - Capital:
+1. [[Amarunda Empire]] - Capital: [[Cormanthyr]]
+2. [[Exar'mu'sharn, the Abyssal Rot]] - Capital: [[Endelheart]]
+3. [[Vustrana]] - Capital: [[Ebonwell]]
+4. [[The Xiburg Dynasty]] - Capital: [[Kashnanz, the Citadel of Radiance]]
 ## - [[Obseofaris]]
 
-1. [[Cirittapan]] - Capital:
-2. [[Ithaharkh]] - Capital:
-3. [[Shoproterron Empire]] - Capital:
-4. [[The Stowyyth Dominion]] - Capital: Zalathar’s Maw    
-5. [[Thorosea]] - Capital:
-6. [[Vrallugiya]] - Capital:
-7. [[Vulphateor]] - Capital:
-8. [[Xaritiha]] - Capital:
-9. [[Xeomidion]] - Capital: Khulzuus Keth
+1. [[Cirittapan]] - Capital: [[Sundergate]]
+2. [[Ithaharkh]] - Capital: [[Nicopykon]]
+3. [[Shoproterron Empire]] - Capital: [[Perlmire Citadel]]
+4. [[The Stowyyth Dominion]] - Capital: [[Zalathar’s Respite]] 
+5. [[Thorosea]] - Capital: [[Kosaphos]]
+6. [[Vrallugiya]] - Capital: [[Vrag-Vor-Muz]]
+7. [[Vulphateor]] - Capital: [[The Ashen Precipice]]
+8. [[Xaritiha]] - Capital: [[Fylh Ancalen]]
+9. [[Xeomidion]] - Capital: 
 10. [[Zepidior]] - Capital:
 ## - [[Shattered Isles of Aevanandoor]]
 ## - [[Wvaerivior]]
