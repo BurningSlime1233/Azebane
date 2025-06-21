@@ -29,16 +29,16 @@
 6. [[Vrallugiya]] - Capital: [[Vrag-Vor-Muz]]
 7. [[Vulphateor]] - Capital: [[The Ashen Precipice]]
 8. [[Xaritiha]] - Capital: [[Fylh Ancalen]]
-9. [[Xeomidion]] - Capital: 
-10. [[Zepidior]] - Capital:
+9. [[Xeomidion]] - Capital: [[Khulzuus Keth]]
+10. [[Zepidior]] - Capital: [[Asofield]]
 ## - [[Shattered Isles of Aevanandoor]]
 ## - [[Wvaerivior]]
 
-1. [[Aihareroth]] - Capital:
-2. [[Akadovia]] - Capital:
-3. [[Attraeokhannad]] - Capital:
-4. [[Ibreodegalla]] - Capital:
-5. [[The Nivernic Coast]] - Capital:
+1. [[Aihareroth]] - Capital: [[Großenbeck]]
+2. [[Akadovia]] - Capital: [[Walenschwil]]
+3. [[Attraeokhannad]] - Capital: [[Gdywroclaw]]
+4. [[Ibreodegalla]] - Capital: [[Hollastadt]]
+5. [[The Nivernic Coast]] - Capital: [[Blankenven]]
 # [[Oceans]]
 - [[The Nivermouth Deep|The Glistening Waves of Nivermouth Deep]]
 - [[The Kinito Ocean|The Shadowy Depths of the Kinito]]
