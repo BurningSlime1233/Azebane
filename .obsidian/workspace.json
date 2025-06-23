@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72ff6dcd21365e85",
+        "id": "0489bd654ac9bf0c",
         "type": "tabs",
         "children": [
           {
-            "id": "4c46d160c3c4d504",
+            "id": "65cabce82dd20d56",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -175,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c46d160c3c4d504",
+  "active": "65cabce82dd20d56",
   "lastOpenFiles": [
     "Artifact.md",
     "Umbra.md",
