@@ -1,0 +1,7 @@
+Firbolg were giantkin who were trapped in the [[Feywild]] and were warped into their current state. They live in isolated communities far from civilization. These communities are found in the forests of [[Azebane]] and [[Aethoros]]. They enjoy nature and quiet and forests are sacred to them. They have clan based societies with remote settlements. These settlements are wooden strongholds made from nearby trees. They use magic to hide their settlements and keep them secret. 
+
+Nomadic firbolg clans are uncommon but non unheard of. If intruders entered their territory, they would usually try an indirect approach at causing the "invaders" to leave, driving game away to discourage hunters or redirecting streams or forest trails to confuse parties. If these methods failed, the firbolgs would at last confront the outsiders. If the outsiders seemed peaceful, the firbolgs would peacefully ask them to leave; if the outsiders seemed evil or seemed to have no concern for the forest lands, the firbolgs might mount a devastating attack. 
+
+Firbolgs have a tendency to divine magic, usually being druids, clerics and paladins. Fighter and ranger firbolgs are not rare.
+
+Firbolgs have a rough form of democracy called ‘The Cast’ to decide the leader of the clan. The most common form of punishment was exile and an exiled firbolg was never permitted to return. Clans would meet twice a year during solstice in order to solve disputes between clans.

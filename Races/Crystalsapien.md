@@ -1,0 +1,1 @@
+Crystalsapiens are silicon-based life forms with an unknown origin. They have no known history, origin or culture as they just seem to appear out of nowhere. They are very good at absorbing and redirecting energy and don’t need to breathe.

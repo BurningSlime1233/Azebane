@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races (Playable).md",
+                "file": "Terretnal Ogre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Races (Playable)"
+              "title": "Terretnal Ogre"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races (Playable).md",
+                "file": "Terretnal Ogre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Races (Playable)"
+              "title": "Backlinks for Terretnal Ogre"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races (Playable).md",
+                "file": "Terretnal Ogre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Races (Playable)"
+              "title": "Outgoing links from Terretnal Ogre"
             }
           },
           {
@@ -181,9 +181,12 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
-    "Conductoid.md",
     "Races (Playable).md",
-    "Changeling.md",
+    "Terretnal Ogre.md",
+    "Races/Firbolg.md",
+    "Races/Crystalsapien.md",
+    "Races/Conductoid.md",
+    "Races/Changeling.md",
     "Races/Biot-Savartian.md",
     "Races/Elf.md",
     "Races/Avariel.md",
@@ -206,9 +209,6 @@
     "Items",
     "Azebane.md",
     "Azebane Survival Guide.md",
-    "Planets.md",
-    "Xia-Ruph System.md",
-    "Xiatuc.md",
     "Misc Places",
     "Organizations",
     "Cities",
