@@ -1,0 +1,1 @@
+Autognomes are mechanical constructs created, usually by [[Gnome|gnomes]], for various reasons. Unlike [[Warforged]], who are all sentient and have a soul and organic matter in their bodies, Autognomes are not usually sentient and work as servants. They also do not have souls. They may gain sentience due to some glitch or as a reward from their creator.

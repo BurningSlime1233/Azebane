@@ -1,0 +1,10 @@
+## Types:
+- ### [[Astral Elf]]
+- ### [[Avariel]]
+- ### [[Drow]]
+- ### [[High Elf]]
+- ### [[Mul Daya Elf]]
+- ### [[Pallid Elf]]
+- ### [[Sea Elf]]
+- ### [[Shadar-Kai]]
+- ### [[Wood Elf]]

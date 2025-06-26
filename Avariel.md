@@ -1,0 +1,1 @@
+Avariel are winged [[Elf|elves]] and were the first elves to travel to the [[Material Plane]]. They are very few in number nowadays due the the draconic wars and [[The Cleansing]]. They look mostly like [[High Elf|High Elves]] (except with wings) and were closely associated with air elementals, [[Wind Dukes of Aaqa]] and [[Aarakocra]].
