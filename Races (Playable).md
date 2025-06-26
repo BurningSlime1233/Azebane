@@ -1,4 +1,4 @@
-The following is a list of major races seen across the [[Xia-Ruph System]] and the associated [[Plane|planes]]. This list only contains those which can be picked by players during character creation.
+The following is a list of major races seen across the [[Xia-Ruph System]] and the associated [[Planes]]. This list only contains those which can be picked by players during character creation.
 
 ## [[Aarakocra]]
 ## [[Aasimar]]

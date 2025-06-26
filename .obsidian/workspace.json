@@ -11,10 +11,14 @@
             "id": "65cabce82dd20d56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Races (Playable).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Races (Playable)"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artifac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artifact.md",
+                "file": "Races (Playable).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Artifact"
+              "title": "Backlinks for Races (Playable)"
             }
           },
           {
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Races (Playable).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Races (Playable)"
             }
           },
           {
@@ -156,8 +161,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,33 +181,39 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
-    "Artifact.md",
-    "Umbra.md",
-    "Aihareroth.md",
-    "Aziraphale.md",
-    "The Vrorshal Dynasty.md",
-    "Amarunda Empire.md",
-    "Aumidan.md",
-    "Azebane Geography.md",
+    "Organizations/The Order of the Transcendant.md",
+    "Plane.md",
+    "Characters/Elise.md",
+    "Countries/The Stowyyth Dominion.md",
+    "Items/Artifact.md",
+    "Items",
     "Azebane.md",
-    "Laikedrari.md",
-    "The Nivernic Coast.md",
-    "Shoproterron Empire.md",
-    "Cirittapan.md",
-    "Vustrana.md",
-    "Exar'mu'sharn, the Abyssal Rot.md",
-    "Thrish'kaar, the Radiant Barrier.md",
-    "Obseofaris.md",
-    "Drakkorenth.md",
-    "Vulphateor.md",
-    "Shattered Isles of Aevanandoor.md",
-    "Gods.md",
-    "Shaudrix.md",
-    "Drakoderior.md",
-    "Krae'Naikh.md",
-    "Eisgoroth.md",
-    "The Aitebiish Kingdom.md",
-    "Untitled.canvas",
-    "Untitled"
+    "Azebane Survival Guide.md",
+    "Planets.md",
+    "Races (Playable).md",
+    "Xia-Ruph System.md",
+    "Xiatuc.md",
+    "Misc Places/Thrish'kaar, the Radiant Barrier.md",
+    "Countries/Xeomidion.md",
+    "Countries/Shaudrix.md",
+    "Countries/Vustrana.md",
+    "Countries/The Nivernic Coast.md",
+    "Misc Places",
+    "Organizations/The Imperceptible.md",
+    "Organizations/The Ceruminal.md",
+    "Organizations/House Cannith.md",
+    "Characters/Rarkon.md",
+    "Isruph.md",
+    "Azebane Geography.md",
+    "Organizations",
+    "Cities",
+    "Characters",
+    "Continents/Aumidan.md",
+    "Countries/Krae'Naikh.md",
+    "Continents",
+    "Countries/Exar'mu'sharn, the Abyssal Rot.md",
+    "Countries/Eisgoroth.md",
+    "Countries",
+    "Untitled.canvas"
   ]
 }
