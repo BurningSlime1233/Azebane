@@ -1,0 +1,1 @@
+Amperi are electric jellyfish like people who live in the deep water filled caverns of [[Aethoros]] and are known to come out and fly occasionally. They can fly at will but prefer to live in their aquatic homes. They feed on pure energy and fish and must sustain themselves indirectly when not in their homes. They enjoy living in darker and wet places.
