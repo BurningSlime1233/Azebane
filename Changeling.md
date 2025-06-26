@@ -1,0 +1,1 @@
+Changelings are a type of highly mutable [[Fey]] who can change their appearance to look like anyone else. They are very often hired as spies and assassins. They love creating new identities.

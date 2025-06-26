@@ -1,0 +1,1 @@
+Conductoids are cyclopean creatures with rubbery bodies and electrical sockets on all appendages from [[Nesanon]]. They prefer to live in solitude or small communities as, depending on their sex, they are differently charged. They like to style their antennae like humanoids style their hair.

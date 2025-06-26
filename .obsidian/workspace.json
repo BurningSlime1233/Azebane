@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avariel.md",
+                "file": "Races (Playable).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avariel"
+              "title": "Races (Playable)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avariel.md",
+                "file": "Races (Playable).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Avariel"
+              "title": "Backlinks for Races (Playable)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avariel.md",
+                "file": "Races (Playable).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Avariel"
+              "title": "Outgoing links from Races (Playable)"
             }
           },
           {
@@ -181,10 +181,12 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
-    "Races/Elf.md",
-    "Avariel.md",
-    "Races/Biot-Savartian.md",
+    "Conductoid.md",
     "Races (Playable).md",
+    "Changeling.md",
+    "Races/Biot-Savartian.md",
+    "Races/Elf.md",
+    "Races/Avariel.md",
     "Races/Autognome.md",
     "Races/Astral Elf.md",
     "Races/Amperi.md",
@@ -207,8 +209,6 @@
     "Planets.md",
     "Xia-Ruph System.md",
     "Xiatuc.md",
-    "Misc Places/Thrish'kaar, the Radiant Barrier.md",
-    "Countries/Xeomidion.md",
     "Misc Places",
     "Organizations",
     "Cities",
