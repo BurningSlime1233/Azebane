@@ -66,3 +66,5 @@ This Dispel Magic  would end the [[Imprisonment]] spell on Cheonma and he would 
 After a tough battle, the party killed and defeated the Paladin. He was raised by Cheonma as an Undead Vassal and the party brought him to Lord Eldevar. They were put into a Zone of Truth where they were questioned. After interrogating them, Eldevar would continue the investigation himself as it was his friend.
 
 ## Session 12
+
+Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cleric and a half [[Dwarf]]
