@@ -67,4 +67,4 @@ After a tough battle, the party killed and defeated the Paladin. He was raised b
 
 ## Session 12
 
-Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cleric and a half [[Dwarf]]
+Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cleric and a half [[Dwarf]]. 2,700 gold for a house that Victus buys. The price is pretty fair. Value goes down after flooding and up once the town is fully made. Vatash, 55 year old Kalashtar and real estate agent in Fenhaven.
