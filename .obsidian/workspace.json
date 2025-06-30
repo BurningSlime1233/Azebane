@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane"
+              "title": "Azebane Survival Guide"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azebane.md",
+                "file": "Azebane Survival Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azebane"
+              "title": "Backlinks for Azebane Survival Guide"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
+    "Azebane.md",
     "Terretnal Ogre.md",
     "Races (Playable).md",
     "Races/Firbolg.md",
@@ -207,7 +208,6 @@
     "Countries/The Stowyyth Dominion.md",
     "Items/Artifact.md",
     "Items",
-    "Azebane.md",
     "Azebane Survival Guide.md",
     "Misc Places",
     "Organizations",
