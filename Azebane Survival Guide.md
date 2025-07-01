@@ -71,4 +71,6 @@ Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cle
 
 ## Session 13
 
-Planetary Dragon.
+Planetary Dragon. Neogi in Grassland. Night encounter with Dawndrinkers.
+3 forest rolls on Day 5
+3 mountain rolls on Day 6
