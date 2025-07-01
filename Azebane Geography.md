@@ -10,7 +10,7 @@
 1. [[The Aitebiish Kingdom]] - Capital: [[Phoebae]]
 2. [[Drakkorenth]] - Capital: [[Drakken]]
 3. [[Eisgoroth]] - Capital: [[Valenar]]
-4. [[Krae'Naikh]] - Capital: [[Leviadore]]
+4. [[Krae'naikh]] - Capital: [[Leviadore]]
 5. [[Shaudrix]] - Capital: [[Etherhold]]
 6. [[Xhorhas]] - Capital: [[Whispervale Sanctuary]]
 ## - [[Laikedrari]]
