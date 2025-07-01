@@ -67,4 +67,8 @@ After a tough battle, the party killed and defeated the Paladin. He was raised b
 
 ## Session 12
 
-Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cleric and a half [[Dwarf]]. 2,700 gold for a house that Victus buys. The price is pretty fair. Value goes down after flooding and up once the town is fully made. Vatash, 55 year old Kalashtar and real estate agent in Fenhaven.
+Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cleric and a half [[Dwarf]]. 2,700 gold for a house that Victus buys. The price is pretty fair. Value goes down after flooding and up once the town is fully made. Vatash, 55 year old Kalashtar and real estate agent in Fenhaven. The Mayor is an orc called Steel Crusher Zhall. The party travelled forwards through the swamp. They had 3 encounters on day 1. Day 2 and 3 they had no encounters. They rolled 2 Grassland and 1 Forest encounter for day 4. The first was the Planetary Dragon which approached them as the session ended.
+
+## Session 13
+
+Planetary Dragon.
