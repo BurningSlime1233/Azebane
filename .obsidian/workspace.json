@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane Survival Guide.md",
+                "file": "Gods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane Survival Guide"
+              "title": "Gods"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azebane Survival Guide.md",
+                "file": "Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azebane Survival Guide"
+              "title": "Backlinks for Gods"
             }
           },
           {
@@ -195,9 +195,12 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
-    "Cities/Fenhaven.md",
-    "Azebane Survival Guide.md",
+    "Gods Table.md",
     "Azebane.md",
+    "Xia-Ruph System.md",
+    "Gods.md",
+    "Azebane Survival Guide.md",
+    "Cities/Fenhaven.md",
     "Azebane Geography.md",
     "Characters/Rarkon.md",
     "Terretnal Ogre.md",
@@ -219,9 +222,6 @@
     "Races/Accursed.md",
     "Races/Abhorrent.md",
     "Races/Aasimar.md",
-    "Races/Aarakocra.md",
-    "Organizations/The Order of the Transcendant.md",
-    "Plane.md",
     "Items",
     "Misc Places",
     "Organizations",
