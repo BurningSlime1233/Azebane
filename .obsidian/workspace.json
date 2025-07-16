@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/The Stowyyth Dominion.md",
+                "file": "Countries/Vulphateor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Stowyyth Dominion"
+              "title": "Vulphateor"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Countries/The Stowyyth Dominion.md",
+                "file": "Countries/Vulphateor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Stowyyth Dominion"
+              "title": "Outgoing links from Vulphateor"
             }
           },
           {
@@ -195,8 +195,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "411d180937779985",
+  "active": "d98cab7a6e34e555",
   "lastOpenFiles": [
+    "Countries/The Stowyyth Dominion.md",
     "Elise Spell.md",
     "Cities/Fenhaven.md",
     "Azebane Survival Guide.md",
@@ -223,7 +224,6 @@
     "Countries/Shaudrix.md",
     "Races/Aerophibian.md",
     "Races",
-    "Races/Accursed.md",
     "Items",
     "Misc Places",
     "Organizations",
