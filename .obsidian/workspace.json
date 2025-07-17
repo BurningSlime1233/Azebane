@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Vulphateor.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulphateor"
+              "title": "Azebane Survival Guide"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Countries/Vulphateor.md",
+                "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vulphateor"
+              "title": "Outgoing links from Azebane Survival Guide"
             }
           },
           {
@@ -197,12 +197,13 @@
   },
   "active": "d98cab7a6e34e555",
   "lastOpenFiles": [
-    "Countries/The Stowyyth Dominion.md",
     "Elise Spell.md",
+    "Countries/Vulphateor.md",
+    "Countries/The Stowyyth Dominion.md",
     "Cities/Fenhaven.md",
     "Azebane Survival Guide.md",
     "Xiatuc.md",
-    "Terretnal Ogre.md",
+    "Races/Terretnal Ogre.md",
     "Gods.md",
     "Gods Table.md",
     "Azebane.md",
@@ -222,7 +223,6 @@
     "Races/Amperi.md",
     "Races/Aetherborn.md",
     "Countries/Shaudrix.md",
-    "Races/Aerophibian.md",
     "Races",
     "Items",
     "Misc Places",

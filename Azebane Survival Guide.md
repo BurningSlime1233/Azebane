@@ -71,6 +71,6 @@ Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cle
 
 ## Session 13
 
-Planetary Dragon. Neogi in Grassland. Night encounter with Dawndrinkers.
-3 forest rolls on Day 5
-3 mountain rolls on Day 6
+Planetary Dragon gave Elise the spell [[Elise Spell]] after she showed him what she could do. He also told her he would call on her if he needed a task to be done. 
+
+## Session 14
