@@ -179,8 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "539af082bbc9a674",
+  "active": "1cc8966acb6a97fe",
   "lastOpenFiles": [
+    "/Races/Terretnal Ogre.md",
+    "Races/Terretnal Ogre.md",
+    "/Races",
+    "/Azebane Survival Guide.md",
     "Azebane Survival Guide.md",
     "Countries/Ibreodegalla.md",
     "Countries/Attraeokhannad.md",
@@ -204,9 +208,6 @@
     "Races/Biot-Savartian.md",
     "Races/Avariel.md",
     "Races/Autognome.md",
-    "Races/Astral Elf.md",
-    "Races/Amperi.md",
-    "Races/Aetherborn.md",
     "Races",
     "Organizations",
     "Misc Places",
@@ -215,7 +216,6 @@
     "Continents",
     "Cities",
     "Characters",
-    "/Races",
     "/Organizations"
   ]
 }
