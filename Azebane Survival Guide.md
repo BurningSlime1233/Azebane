@@ -74,3 +74,16 @@ Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cle
 Planetary Dragon gave Elise the spell [[Elise Spell]] after she showed him what she could do. He also told her he would call on her if he needed a task to be done. 
 
 ## Session 14
+
+Dawndrinker fight
+Rarkon has memories of seeing Istara at the funeral
+Livia sings the Song of the Stars and everyone must succeed a DC 20 Cha save or gain a short term madness.
+
+## Session 15
+
+Ghast Encounter at night on day 5
+
+Day 6, 3 encounters
+1 Venom Troll
+1 Cinderslag Elemental
+1 Eater of Hope (54 hp buff)
