@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Akadovia.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akadovia"
+              "title": "Azebane Survival Guide"
             }
           }
         ]
@@ -167,12 +167,12 @@
   },
   "active": "539af082bbc9a674",
   "lastOpenFiles": [
+    "Countries/Akadovia.md",
     "/Organizations/The Order of the Transcendant.md",
     "/Organizations",
     "Countries/Aihareroth.md",
     "Countries/Ibreodegalla.md",
     "Organizations/House Cannith.md",
-    "Countries/Akadovia.md",
     "Organizations/House Ghallanda.md",
     "Characters/Elise.md",
     "/Races/Terretnal Ogre.md",
