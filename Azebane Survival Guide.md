@@ -85,5 +85,5 @@ Ghast Encounter at night on day 5
 
 Day 6, 3 encounters
 1 Venom Troll
-1 Cinderslag Elemental
+1 Cinderslag Elemental (54hp buff)
 1 Eater of Hope (54 hp buff)
