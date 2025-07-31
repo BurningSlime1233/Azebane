@@ -84,6 +84,5 @@ Livia sings the Song of the Stars and everyone must succeed a DC 20 Cha save or 
 Ghast Encounter at night on day 5
 
 Day 6, 3 encounters
-1 Venom Troll
 1 Cinderslag Elemental (54hp buff)
 1 Eater of Hope (54 hp buff)
