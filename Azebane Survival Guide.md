@@ -104,10 +104,11 @@ In library,
 Head Empath - Hannah (Human Female)
 Apprentices: Trugill (Vedalken Male) , Liatris (Pallid Elf Female)
 
-Victus: Hannah tries to divine about Loki, spell fails, meet tommorow for stronger spell. pay in advance
+Victus: Hannah tries to divine about Loki, spell fails, meet tommorow for stronger spell. pay in advance. (2000 gp, can be reduced to 1500gp by persuading her that even she's curious, DC 15)
 
 Rarkon: Wants to see past memories. Scene with memory projector. Leaves distraught. If anyone tries to stop him, shoot unless its Elise. Wants to brood about lost brother. will go to bar to drink. Can be found in very poor condition in alley way outside. bartender (Green Dragonborn: Limrendock) says he saw two people claiming to be his friends take him out. Bartender and 2 others (they left) are members of the Broken Hammer. He was branded with the Abyssal Sigil of Baphomet again again (its single use but leaves behind a scar, if checked he has several)
 
 Elise: Probably wont go to the empath, psychic damage from the song.
 
-Cheonma: 
+Cheonma: Probably reluctant to get his mind read. If being defensive forced detect thoughts (DC 19). If caught she will feign ignorance, else she will keep quiet and report to authorities.
+
