@@ -112,4 +112,6 @@ Elise: Probably wont go to the empath, psychic damage from the song.
 
 Cheonma: Probably reluctant to get his mind read. If being defensive forced detect thoughts (DC 19). If caught she will feign ignorance, else she will keep quiet and report to authorities.
 
-When leaving Victus hears a voice warning him not to 
+When leaving Victus hears a voice warning him not to investigate further and that all will be revealed in due time. It is the same voice that led him to the staff. He can follow it which leads to an encounter with his father (He is clueless)
+
+Market Center, Victus is approached by someone asking if he wants to know the secrets of Loki. This leads to meeting Undying Veneration the next day. After all victus related encounters are done, he will be approached by Myrkul.
