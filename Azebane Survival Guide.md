@@ -84,7 +84,7 @@ Livia sings the Song of the Stars and everyone must succeed a DC 20 Cha save or 
 Ghast Encounter at night on day 5
 
 Day 6, 3 encounters
-1 Cinderslag Elemental (54hp buff)
+1 Cinderslag Elemental (54 hp buff)
 1 Eater of Hope (54 hp buff)
 
 Arrive to the outskirts of Einshold on the night of Correlaire 20.
@@ -94,4 +94,20 @@ Arrive to the outskirts of Einshold on the night of Correlaire 20.
 Party arrives at the night of the funeral, difficult to find places to stay
 Not all homes are not celebrating, Dead kids
 1 Day spent long resting.
-Next day 
+
+Umbra meets Elise at night once they find a room and she's alone.
+
+Next day:
+- Visit Library of Savras
+- Buy Items
+In library,
+Head Empath - Hannah (Human Female)
+Apprentices: Trugill (Vedalken Male) , Liatris (Pallid Elf Female)
+
+Victus: Hannah tries to divine about Loki, spell fails, meet tommorow for stronger spell. pay in advance
+
+Rarkon: Wants to see past memories. Scene with memory projector. Leaves distraught. If anyone tries to stop him, shoot unless its Elise. Wants to brood about lost brother. will go to bar to drink. Can be found in very poor condition in alley way outside. bartender (Green Dragonborn: Limrendock) says he saw two people claiming to be his friends take him out. Bartender and 2 others (they left) are members of the Broken Hammer. He was branded with the Abyssal Sigil of Baphomet again again (its single use but leaves behind a scar, if checked he has several)
+
+Elise: Probably wont go to the empath, psychic damage from the song.
+
+Cheonma: 
