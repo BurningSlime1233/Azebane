@@ -88,3 +88,10 @@ Day 6, 3 encounters
 1 Eater of Hope (54 hp buff)
 
 Arrive to the outskirts of Einshold on the night of Correlaire 20.
+
+## Session 16
+
+Party arrives at the night of the funeral, difficult to find places to stay
+Not all homes are not celebrating, Dead kids
+1 Day spent long resting.
+Next day 
