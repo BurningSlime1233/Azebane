@@ -95,7 +95,7 @@ Party arrives at the night of the funeral, difficult to find places to stay
 Not all homes are not celebrating, Dead kids
 1 Day spent long resting.
 
-Umbra meets Elise at night once they find a room and she's alone.
+Umbra meets Elise at night once they find a room and she's alone. Talks to her about her allies. Warns her not to sing the song of the stars to others. Ask her how she is. Does not answer anything about the place she saw or where he's been.
 
 Next day:
 - Visit Library of Savras
@@ -112,3 +112,4 @@ Elise: Probably wont go to the empath, psychic damage from the song.
 
 Cheonma: Probably reluctant to get his mind read. If being defensive forced detect thoughts (DC 19). If caught she will feign ignorance, else she will keep quiet and report to authorities.
 
+When leaving Victus hears a voice warning him not to 
