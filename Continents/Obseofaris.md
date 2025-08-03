@@ -8,7 +8,7 @@ Obseofaris is one of the six [[Continent|continents]] on the planet of [[Azebane
 [[Vrallugiya]]
 [[Vulphateor]]
 
-## South Obsefaris
+## South Obseofaris
 [[The Stowyyth Dominion]]
 [[Thorosea]]
 [[Xarithia]]
