@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continents/Wvaerivior.md",
+                "file": "Characters/Cheonma Muwi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wvaerivior"
+              "title": "Cheonma Muwi"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continents/Wvaerivior.md",
+                "file": "Characters/Cheonma Muwi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wvaerivior"
+              "title": "Outgoing links from Cheonma Muwi"
             }
           },
           {
@@ -182,32 +182,32 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
-    "Moons.md",
-    "Isruph.md",
-    "Gods Table.md",
-    "Races (Playable).md",
     "Azebane Survival Guide.md",
+    "Countries/Amarunda Empire.md",
+    "Countries/Cirittapan.md",
+    "Countries/Attraeokhannad.md",
+    "Races (Playable).md",
+    "Gods Table.md",
+    "Isruph.md",
+    "Moons.md",
+    "Continents/Wvaerivior.md",
+    "Countries/Akadovia.md",
+    "Countries/Aihareroth.md",
     "Characters/Cheonma Muwi.md",
     "Continents/Obseofaris.md",
     "Continents/Laikedrari.md",
     "Continents/Drakoderior.md",
     "Continents/Aumidan.md",
-    "Continents/Wvaerivior.md",
     "Continents/Shattered Isles of Aevanandoor.md",
-    "Countries/Aihareroth.md",
-    "Countries/Attraeokhannad.md",
     "Countries/Krae'Naikh.md",
     "Countries/Ibreodegalla.md",
     "Countries/Exar'mu'sharn, the Abyssal Rot.md",
     "Countries/Eisgoroth.md",
     "Countries/Drakkorenth.md",
-    "Countries/Cirittapan.md",
     "Elise Spell.md",
     "Gods.md",
     "Azebane Wiki.md",
     "Azebane Geography.md",
-    "Organizations/The Order of the Transcendant.md",
-    "Planes.md",
     "Races",
     "Items",
     "Misc Places",
