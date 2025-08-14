@@ -9,8 +9,6 @@
 - Reanimator
 - Weapon Maker
 
-  
-
 ## Astromancer
 
 - Gravity Cosmology
@@ -23,35 +21,20 @@
 - Terrestrial Cosmology
 - Void Cosmology
 
-  
-
-Barbarian
+## Barbarian
 
 Path of the Ancestral Guardian
-
 Path of the Beast
-
 Path of the Berserker
-
 Path of the Infernal
-
 Path of the Lightning Vessel
-
 Path of the Shaman
-
 Path of the Slayer
-
 Path of the Storm Herald
-
 Path of the Totem Warrior
-
 Path of Wild Magic
-
 Path of the Void Herald
-
 Path of the Zealot
-
-  
 
 Bard
 
@@ -113,21 +96,12 @@ Order of the Profane Soul
 
 Order of the Wildblood
 
-  
-
 Channeler
-
 Channel of Artistry
-
 Channel of Containment
-
 Channel of Devastation
-
 Channel of Madness
-
 Channel of Volatility
-
-  
 
 Cleric
 
