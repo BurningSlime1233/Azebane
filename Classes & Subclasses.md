@@ -13,23 +13,15 @@
 
 ## Astromancer
 
-Gravity Cosmology
-
-Jovian Cosmology
-
-Lunar Cosmology
-
-Meteoric Cosmology
-
-Solar Cosmology
-
-Singularity Cosmology
-
-Stardust Cosmology
-
-Terrestrial Cosmology
-
-Void Cosmology
+- Gravity Cosmology
+- Jovian Cosmology
+- Lunar Cosmology
+- Meteoric Cosmology
+- Solar Cosmology
+- Singularity Cosmology
+- Stardust Cosmology
+- Terrestrial Cosmology
+- Void Cosmology
 
   
 
