@@ -39,27 +39,16 @@ Path of the Zealot
 Bard
 
 College of the Apocalypse
-
 College of Creation
-
 College of Destruction
-
 College of Eloquence
-
 College of Glamour
-
 College of Hastur
-
 College of Lore
-
 College of Spirits
-
 College of Swords
-
 College of Tragedy
-
 College of Valor
-
 College of Whispers
 
   
@@ -67,14 +56,9 @@ College of Whispers
 Bioarchitect
 
 Celestial
-
 Fiend
-
 Monstrosity
-
 Ooze
-
-  
 
 Blood Hunter
 
