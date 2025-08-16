@@ -1,3 +1,7 @@
+Age: 22
+Lives upto 1000
+## Backstory
+
 Elise is a [[The Corrupted|corrupted human]] born to a [[Yuan-Ti]] Pureblood mother, Eksolas, and [[Cursed Blood]] father, Jazaraud Ranakh. Her father was a wild blood, [[Blood Hunter]] and the mother a Wizard and both retired adventurers. The [[Hunter's Bane]] transformation should have made her father infertile but due to his cursed nature, it did not work correctly, causing the resulting offspring to be born corrupted.
 
 Her father was travelling and had died by the time the mother found out she was pregnant. Even before she was born, Elise was devouring magic and matter which caused her mother to lose weight rapidly and impeded her ability to cast spells as well. Once Elise was born, she needed to constantly be fed magic or get sick. This resulted in her mother leaving her job at a magical academy in order to better take care of Elise. She studied the creation of magical batteries in order to prevent Elise from losing her magic and began research into ways to cure Elise. She began bleeding the wealth she had accumulated and eventually went deep into debt. 
