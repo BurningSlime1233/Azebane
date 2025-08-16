@@ -1,1 +1,1 @@
-Undying Veneration is a 23rd level Theurgist Wizard 
+Undying Veneration is a 23rd level Theurgist Wizard of the Death Domain and worshipper of [[Vecna|The Whispered One]]. He bears the [[Hand of Vecna]] and works as a broker of secrets and warlock patron over [[Azebane]]. 
