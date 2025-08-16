@@ -1,1 +1,1 @@
-Lignified Ascetics are the trees made from the best of the Archdruids when [[The Cleansing]] began as a punishment from the [[Gods]] for 
+Lignified Ascetics are the trees made from the best of the Archdruids when [[The Cleansing]] began as a punishment from the [[Gods]] for their failure to protect the world. They stand as some of the largest trees in the world, deep within forests and protected by all kinds of magical and natural threats. They are indestructible but often shed twigs which are used in the creation of various magical items as well as spells and rituals.
