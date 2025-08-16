@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Hand of Vecna"
             }
+          },
+          {
+            "id": "74f23cd3f4b1eabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods Table"
+            }
           }
         ]
       }
@@ -182,8 +196,10 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
-    "Items/Artifact.md",
+    "Gods Table.md",
+    "Gods.md",
     "Hand of Vecna.md",
+    "Items/Artifact.md",
     "Classes & Subclasses.md",
     "Azebane.md",
     "Xiatuc.md",
@@ -191,8 +207,6 @@
     "The First Dawn.md",
     "Misc Places/Laikedrarian Velds.md",
     "Azebane Survival Guide.md",
-    "Gods Table.md",
-    "Gods.md",
     "Elise Spell.md",
     "Azebane Wiki.md",
     "Planets.md",

@@ -1,1 +1,1 @@
-The Hand of Vecna is one of the few remnants of the lich f
+The Hand of [[Vecna]] is one of the few remnants of the lich from before he ascended to Godhood. It is currently in possession of a Chosen of the Whispered One in [[Einshold]] in [[Aihareroth]]. an Aetherborn by the name of [[Undying Veneration]].
