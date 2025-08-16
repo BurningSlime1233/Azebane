@@ -1,0 +1,1 @@
+The Hand of Vecna is one of the few remnants of the lich f

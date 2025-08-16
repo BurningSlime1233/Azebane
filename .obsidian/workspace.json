@@ -11,10 +11,14 @@
             "id": "65cabce82dd20d56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Hand of Vecna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hand of Vecna"
             }
           }
         ]
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hand of Vecna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Hand of Vecna"
             }
           },
           {
@@ -177,6 +182,8 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
+    "Items/Artifact.md",
+    "Hand of Vecna.md",
     "Classes & Subclasses.md",
     "Azebane.md",
     "Xiatuc.md",
@@ -201,8 +208,6 @@
     "Countries/Akadovia.md",
     "Countries/Aihareroth.md",
     "Continents/Obseofaris.md",
-    "Continents/Laikedrari.md",
-    "Continents/Drakoderior.md",
     "Races",
     "Items",
     "Misc Places",
