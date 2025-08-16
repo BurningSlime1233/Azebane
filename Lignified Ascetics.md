@@ -1,0 +1,1 @@
+Lignified Ascetics are the trees made from the best of the Archdruids when [[The Cleansing]] began as a punishment from the [[Gods]] for 

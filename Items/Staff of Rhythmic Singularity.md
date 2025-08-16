@@ -1,1 +1,1 @@
-The Staff of Rhythmic Singularity is a staff made by [[Umbra]] for [[Elise]] using the twigs shed by the [[Lignified Ascetics]]. The staff is a trinket of Umbra and binds him and Elise in a coven. 
+The Staff of Rhythmic Singularity is a staff made by [[Umbra]] for [[Elise]] using the twigs shed by the [[Lignified Ascetics]]. The staff is a trinket of Umbra and binds him and Elise in a coven. The staff will grow alongside her and Umbra, feeding off their abilities. 
