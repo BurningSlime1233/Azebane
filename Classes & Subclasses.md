@@ -23,295 +23,201 @@
 
 ## Barbarian
 
-Path of the Ancestral Guardian
-Path of the Beast
-Path of the Berserker
-Path of the Infernal
-Path of the Lightning Vessel
-Path of the Shaman
-Path of the Slayer
-Path of the Storm Herald
-Path of the Totem Warrior
-Path of Wild Magic
-Path of the Void Herald
-Path of the Zealot
+- Path of the Ancestral Guardian
+- Path of the Beast
+- Path of the Berserker
+- Path of the Infernal
+- Path of the Lightning Vessel
+- Path of the Shaman
+- Path of the Slayer
+- Path of the Storm Herald
+- Path of the Totem Warrior
+- Path of Wild Magic
+- Path of the Void Herald
+- Path of the Zealot
 
-Bard
+## Bard
 
-College of the Apocalypse
-College of Creation
-College of Destruction
-College of Eloquence
-College of Glamour
-College of Hastur
-College of Lore
-College of Spirits
-College of Swords
-College of Tragedy
-College of Valor
-College of Whispers
+- College of the Apocalypse
+- College of Creation
+- College of Destruction
+- College of Eloquence
+- College of Glamour
+- College of Hastur
+- College of Lore
+- College of Spirits
+- College of Swords
+- College of Tragedy
+- College of Valor
+- College of Whispers
 
   
 
-Bioarchitect
+## Bioarchitect
 
-Celestial
-Fiend
-Monstrosity
-Ooze
+- Celestial
+- Fiend
+- Monstrosity
+- Ooze
 
-Blood Hunter
+## Blood Hunter
 
-Order of the Bionic Weapon
+- Order of the Bionic Weapon
+- Order of the Farwalkers
+- Order of the Ghostslayer
+- Order of the Inevitable Death
+- Order of the Lycan
+- Order of the Mutant
+- Order of the Nullifier
+- Order of the Profane Soul
+- Order of the Wildblood
 
-Order of the Farwalkers
+## Channeler
 
-Order of the Ghostslayer
+- Channel of Artistry
+- Channel of Containment
+- Channel of Devastation
+- Channel of Madness
+- Channel of Volatility
 
-Order of the Inevitable Death
+## Cleric
 
-Order of the Lycan
-
-Order of the Mutant
-
-Order of the Nullifier
-
-Order of the Profane Soul
-
-Order of the Wildblood
-
-Channeler
-Channel of Artistry
-Channel of Containment
-Channel of Devastation
-Channel of Madness
-Channel of Volatility
-
-Cleric
-
-[Arcana Domain](http://dnd5e.wikidot.com/cleric:arcana)
-
-Blood Domain
-
-Chaos Domain
-
-[Death Domain](http://dnd5e.wikidot.com/cleric:death)
-
-Eldritch Domain
-
-[Forge Domain](http://dnd5e.wikidot.com/cleric:forge)
-
-Gluttony Domain
-
-[Grave Domain](http://dnd5e.wikidot.com/cleric:grave)
-
-[Knowledge Domain](http://dnd5e.wikidot.com/cleric:knowledge)
-
-[Life Domain](http://dnd5e.wikidot.com/cleric:life)
-
-[Light Domain](http://dnd5e.wikidot.com/cleric:light)
-
-Madness Domain
-
-Moon Domain
-
-[Nature Domain](http://dnd5e.wikidot.com/cleric:nature)
-
-Order Domain
-
-Tempest Domain
-
-[Trickery Domain](http://dnd5e.wikidot.com/cleric:trickery)
-
-[Twilight Domain](http://dnd5e.wikidot.com/cleric:twilight)
-
-Void Domain
+- Arcana Domain
+- Blood Domain
+- Chaos Domain
+- Death Domain
+- Eldritch Domain
+- Forge Domain
+- Gluttony Domain
+- Grave Domain
+- Knowledge Domain
+- Life Domain
+- Light Domain
+- Madness Domain
+- Moon Domain
+- Nature Domain
+- Order Domain
+- Tempest Domain
+- Twilight Domain
+- Trickery Domain
+- Void Domain
 
   
   
   
   
 
-Desperado
+## Desperado
 
-The Deadeye
-
-The Duellist
-
-The Engineer
-
-The Falconer
-
-The Malefactor
-
-The Mountebank
-
-The Pioneer
-
-The Renegade
-
-The Tactician
-
-The Vanguard
+- The Deadeye
+- The Duellist
+- The Engineer
+- The Falconer
+- The Malefactor
+- The Mountebank
+- The Pioneer
+- The Renegade
+- The Tactician
+- The Vanguard
 
   
 
-Druid
+## Druid
 
-Circle of the Blighted
-
-Circle of Bone
-
-Circle of the Chimera
-
-Circle of Dreams
-
-Circle of Evolution
-
-Circle of the Harvest
-
-Circle of Hunger
-
-Circle of the Land
-
-Circle of the Leviathan
-
-Circle of the Moon
-
-Circle of Scales
-
-Circle of the Shepherd
-
-Circle of Spores
-
-Circle of Stars
-
-Circle of Symbiosis
-
-Circle of the Void
-
-Circle of Wildfire
+- Circle of the Blighted
+- Circle of Bone
+- Circle of the Chimera
+- Circle of Dreams
+- Circle of Evolution
+- Circle of the Harvest
+- Circle of Hunger
+- Circle of the Land
+- Circle of the Leviathan
+- Circle of the Moon
+- Circle of Scales
+- Circle of the Shepherd
+- Circle of Spores
+- Circle of Stars
+- Circle of Symbiosis
+- Circle of the Void
+- Circle of Wildfire
 
   
 
-Fighter
+## Fighter
 
 The Arcane Archer
-
-The [Banneret](http://dnd5e.wikidot.com/fighter:banneret)
-
-The [Battle Master](http://dnd5e.wikidot.com/fighter:battle-master)
-
+The Battle Master
 The Blood Archer
-
-The [Cavalier](http://dnd5e.wikidot.com/fighter:cavalier)
-
-The [Champion](http://dnd5e.wikidot.com/fighter:champion)
-
+The Cavalier
+The Champion
 The Death Sovereign
-
-The [Echo Knight](http://dnd5e.wikidot.com/fighter:echo-knight)
-
-The [Eldritch Knight](http://dnd5e.wikidot.com/fighter:eldritch-knight)
-
+The Echo Knight
+The Eldritch Knight
 The Grafted Chimera
-
 The Living Nightmare
-
-The [Psi Warrior](http://dnd5e.wikidot.com/fighter:psi-warrior)
-
-The [Rune Knight](http://dnd5e.wikidot.com/fighter:rune-knight)
-
-The [Samurai](http://dnd5e.wikidot.com/fighter:samurai)
-
+The Psi Warrior
+The Rune Knight
+The Samurai
 The Thunder Knuckle
 
   
   
 
-Hellbringer
+## Hellbringer
 
-The Harbinger
-
-The Shadowmaster
-
-The Warmonger
+- The Harbinger
+- The Shadowmaster
+- The Warmonger
 
   
 
-Jaeger
+## Jaeger
 
-The Absolute Chapter
-
-The Heretic Chapter
-
-The Marauder Chapter
-
-The Salvation Chapter
-
-The Sanguine Chapter
+- The Absolute Chapter
+- The Heretic Chapter
+- The Marauder Chapter
+- The Salvation Chapter
+- The Sanguine Chapter
 
   
 
-Monk
+## Monk
 
 The Way of the Ascendant Dragon
-
 The Way of the Astral Self
-
 The Way of the Cobalt Soul
-
 The Way of the Demon
-
 The Way of the Drunken Master
-
 The Way of the Fire Dancer
-
-The [Way of the Four Elements](http://dnd5e.wikidot.com/monk:four-elements)
-
-The [Way of the Kensei](http://dnd5e.wikidot.com/monk:kensei)
-
-The [Way of the Long Death](http://dnd5e.wikidot.com/monk:long-death)
-
+The Way of the Four Elements
+The Way of the Kensei
+The Way of the Long Death
 The Way of Predation
-
 The Way of Red Rivers
-
 The Way of Mercy
-
-The [Way of the Open Hand](http://dnd5e.wikidot.com/monk:open-hand)
-
+The Way of the Open Hand
 The Way of the Seven Deadly Sins
-
-The [Way of Shadow](http://dnd5e.wikidot.com/monk:shadow)
-
+The Way of the Shadow
 The Way of the Soul Knife
-
-The [Way of the Sun Soul](http://dnd5e.wikidot.com/monk:sun-soul)
+The Way of the Sun Soul
 
   
 
-Mutant
+## Mutant
 
-The Andromeda Strain
+- The Andromeda Strain
+- The Construct Strain
+- The Flora Strain
+- The Gelatinous Strain
+- The Ghoul Strain
+- The Zoan Strain
 
-The Construct Strain
+## Necromancer
 
-The Flora Strain
-
-The Gelatinous Strain
-
-The Ghoul Strain
-
-The Zoan Strain
-
-Necromancer
-
-The Creed of the Departed
-
-The Creed of the Siphon
-
-The Creed of Tomes
+- The Creed of the Departed
+- The Creed of the Siphon
+- The Creed of Tomes
 
   
   
