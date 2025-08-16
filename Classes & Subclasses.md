@@ -50,16 +50,13 @@
 - College of Tragedy
 - College of Valor
 - College of Whispers
-
-  
-
 ## Bioarchitect
 
 - Celestial
 - Fiend
 - Monstrosity
 - Ooze
-
+- 
 ## Blood Hunter
 
 - Order of the Bionic Weapon
@@ -102,11 +99,6 @@
 - Trickery Domain
 - Void Domain
 
-  
-  
-  
-  
-
 ## Desperado
 
 - The Deadeye
@@ -119,8 +111,6 @@
 - The Renegade
 - The Tactician
 - The Vanguard
-
-  
 
 ## Druid
 
@@ -142,8 +132,6 @@
 - Circle of the Void
 - Circle of Wildfire
 
-  
-
 ## Fighter
 
 The Arcane Archer
@@ -161,16 +149,11 @@ The Rune Knight
 The Samurai
 The Thunder Knuckle
 
-  
-  
-
 ## Hellbringer
 
 - The Harbinger
 - The Shadowmaster
 - The Warmonger
-
-  
 
 ## Jaeger
 
@@ -180,29 +163,25 @@ The Thunder Knuckle
 - The Salvation Chapter
 - The Sanguine Chapter
 
-  
-
 ## Monk
 
-The Way of the Ascendant Dragon
-The Way of the Astral Self
-The Way of the Cobalt Soul
-The Way of the Demon
-The Way of the Drunken Master
-The Way of the Fire Dancer
-The Way of the Four Elements
-The Way of the Kensei
-The Way of the Long Death
-The Way of Predation
-The Way of Red Rivers
-The Way of Mercy
-The Way of the Open Hand
-The Way of the Seven Deadly Sins
-The Way of the Shadow
-The Way of the Soul Knife
-The Way of the Sun Soul
-
-  
+- The Way of the Ascendant Dragon
+- The Way of the Astral Self
+- The Way of the Cobalt Soul
+- The Way of the Demon
+- The Way of the Drunken Master
+- The Way of the Fire Dancer
+- The Way of the Four Elements
+- The Way of the Kensei
+- The Way of the Long Death
+- The Way of Predation
+- The Way of Red Rivers
+- The Way of Mercy
+- The Way of the Open Hand
+- The Way of the Seven Deadly Sins
+- The Way of the Shadow
+- The Way of the Soul Knife
+- The Way of the Sun Soul
 
 ## Mutant
 
@@ -218,265 +197,143 @@ The Way of the Sun Soul
 - The Creed of the Departed
 - The Creed of the Siphon
 - The Creed of Tomes
-
   
-  
-
-Occultist
-
-The Sign of the Coven
-
-The Sign of the Craft
-
-The Sign of the Fair Folk
-
-The Sign of the Flesh
-
-The Sign of the Inner Eye
-
-The Sign of Madness
-
-The Sign of the Omen
-
-The Sign of the Other Side
-
-The Sign of Plague
-
-The Sign of Strife
-
-  
-
-Paladin
-
-[Oath of the Ancients](http://dnd5e.wikidot.com/paladin:ancients)
-
-[Oath of Conquest](http://dnd5e.wikidot.com/paladin:conquest)
-
-[Oath of the Crown](http://dnd5e.wikidot.com/paladin:crown)
-
-[Oath of Devotion](http://dnd5e.wikidot.com/paladin:devotion)
-
-Oath of the Eldritch Hunt
-
-[Oath of Glory](http://dnd5e.wikidot.com/paladin:glory)
-
-Oath of the Open Sea
-
-[Oath of Redemption](http://dnd5e.wikidot.com/paladin:redemption)
-
-Oath of Remembrance
-
-Oath of the Renegade
-
-Oath of the Slayer
-
-[Oath of Vengeance](http://dnd5e.wikidot.com/paladin:vengeance)
-
-[Oath of the Watchers](http://dnd5e.wikidot.com/paladin:watchers)
-
-[Oathbreake](http://dnd5e.wikidot.com/paladin:oathbreaker)r
-
-  
-
-Psion
-
-The Empath
-
-The Enlightened
-
-The Immortal
-
-The Outsider
-
-The Wilder
-
-  
-
-Ranger
-
-The Beast Master
-
-The Chaos Champion
-
-The Creature Mimic
-
-The Drakewarden
-
-The Eldritch Marksman
-
-The Fey Wanderer
-
-The Gloomstalker
-
-The Horizon Walker
-
-The Hunter
-
-The Moon’s Disciple
-
-  
-
-The Monster Slayer
-
-The Shadow Weaver
-
-The Swarmkeeper
-
-  
-
-Rogue
-
-The [Arcane Trickster](http://dnd5e.wikidot.com/rogue:arcane-trickster)
-
-The [Assassin](http://dnd5e.wikidot.com/rogue:assassin)
-
-The Blade of Radiance
-
-The Bloodletter
-
-The Emissary of Ravens
-
-The Fateblade
-
-The [Inquisitive](http://dnd5e.wikidot.com/rogue:inquisitive)
-
-The [Mastermind](http://dnd5e.wikidot.com/rogue:mastermind)
-
-The Mage Hunter
-
-The [Phantom](http://dnd5e.wikidot.com/rogue:phantom)
-
-The [Scout](http://dnd5e.wikidot.com/rogue:scout)
-
-The Shadow
-
-The Skinchanger
-
-The [Soulknife](http://dnd5e.wikidot.com/rogue:soulknife)
-
-The [Swashbuckler](http://dnd5e.wikidot.com/rogue:swashbuckler)
-
-The [Thief](http://dnd5e.wikidot.com/rogue:thief)
-
-  
-
-Sorcerer
-
-The Aberrant Mind Bloodline
-
-The Clockwork Soul Bloodline
-
-The Draconic Bloodline
-
-The Dreamspawn Bloodline
-
-The Divine Soul Bloodline
-
-The Lunar Sorcery Bloodline
-
-The Runechild Bloodline
-
-The Scion of Madness Bloodline
-
-The Shadow Magic Bloodline
-
-The Stoneblooded Bloodline
-
-The Storm Bloodline
-
-The [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic) Bloodline
-
-The Witchblade Bloodline
-
-  
-
-Warlock
-
-The Archfey
-
-The Celestial
-
-The Fathomless
-
-The Fiend
-
-The Genie
-
-The Great Old One
-
-The Hexblade
-
-The Trickster
-
-The Undead
-
-The Void
-
-The Yellow King
-
-  
-
-Warlord
-
-The Academy of Chivalry
-
-The Academy of Ferocity
-
-The Academy of Schemes
-
-The Academy of Skalds
-
-The Academy of Tactics
-
-  
-
-Weaveknight
-
-The Armsmeister  
-The Godsbane
-
-The Initiate of Arcane Mystara
-
-The Magehunter
-
-The Magus
-
-The Spellbow
-
-The Spellwarden
-
-  
-
-Wizard
-
-The School of Abjuration
-
-The School of Bladesong
-
-The School of Blood Magic
-
-The School of Chronurgy
-
-The School of Conjuration
-
-The School of Divination
-
-The School of Enchantment
-
-The School of Entropy
-
-The School of Evocation
-
-The School of Graviturgy
-
-The School of Illusion
-
-The School of Necromancy
-
-The School of Osteomancy
-
-The Order of Scribes
-
-The School of Transmutation
-
-The School of War Magic
+## Occultist
+
+- The Sign of the Coven
+- The Sign of the Craft
+- The Sign of the Fair Folk
+- The Sign of the Flesh
+- The Sign of the Inner Eye
+- The Sign of Madness
+- The Sign of the Omen
+- The Sign of the Other Side
+- The Sign of Plague
+- The Sign of Strife
+
+## Paladin
+
+- Oath of the Ancients
+- Oath of Conquest
+- Oath of the Crown
+- Oath of Devotion
+- Oath of the Eldritch Hunt
+- Oath of Glory
+- Oath of the Open Sea
+- Oath of Redemption
+- Oath of Remembrance
+- Oath of the Renegade
+- Oath of the Slayer
+- Oath of Vengeance
+- Oath of the Watchers
+- Oathbreaker
+
+## Psion
+
+- The Empath
+- The Enlightened
+- The Immortal
+- The Outsider
+- The Wilder
+
+## Ranger
+
+- The Beast Master
+- The Chaos Champion
+- The Creature Mimic
+- The Drakewarden
+- The Eldritch Marksman
+- The Fey Wanderer
+- The Gloomstalker
+- The Horizon Walker
+- The Hunter
+- The Moon’s Disciple
+- The Monster Slayer
+- The Shadow Weaver
+- The Swarmkeeper
+
+## Rogue
+
+- The Arcane Trickster
+- The Assassin
+- The Blade of Radiance
+- The Bloodletter
+- The Emissary of Ravens
+- The Fateblade
+- The Inquisitive
+- The Mastermind
+- The Mage Hunter
+- The Phantom
+- The Scout
+- The Shadow
+- The Skinchanger
+- The Soulknife
+- The Swashbuckler
+- The Thief
+
+## Sorcerer
+
+- The Aberrant Mind Bloodline
+- The Clockwork Soul Bloodline
+- The Draconic Bloodline
+- The Dreamspawn Bloodline
+- The Divine Soul Bloodline
+- The Lunar Sorcery Bloodline
+- The Runechild Bloodline
+- The Scion of Madness Bloodline
+- The Shadow Magic Bloodline
+- The Stoneblooded Bloodline
+- The Storm Bloodline
+- The Wild Magic Bloodline
+- The Witchblade Bloodline
+
+## Warlock
+
+- The Archfey
+- The Celestial
+- The Fathomless
+- The Fiend
+- The Genie
+- The Great Old One
+- The Hexblade
+- The Trickster
+- The Undead
+- The Void
+- The Yellow King
+
+## Warlord
+
+- The Academy of Chivalry
+- The Academy of Ferocity
+- The Academy of Schemes
+- The Academy of Skalds
+- The Academy of Tactics
+
+## Weaveknight
+
+- The Armsmeister  
+- The Godsbane
+- The Initiate of Arcane Mystara
+- The Magehunter
+- The Magus
+- The Spellbow
+- The Spellwarden
+
+## Wizard
+
+- The School of Abjuration
+- The School of Bladesong
+- The School of Blood Magic
+- The School of Chronurgy
+- The School of Conjuration
+- The School of Divination
+- The School of Enchantment
+- The School of Entropy
+- The School of Evocation
+- The School of Graviturgy
+- The School of Illusion
+- The School of Necromancy
+- The School of Osteomancy
+- The Order of Scribes
+- The School of Transmutation
+- The School of War Magic
