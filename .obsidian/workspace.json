@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hand of Vecna.md",
+                "file": "Undying Veneration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hand of Vecna"
+              "title": "Undying Veneration"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hand of Vecna.md",
+                "file": "Undying Veneration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hand of Vecna"
+              "title": "Outgoing links from Undying Veneration"
             }
           },
           {
@@ -196,9 +196,10 @@
   },
   "active": "65cabce82dd20d56",
   "lastOpenFiles": [
+    "Hand of Vecna.md",
+    "Undying Veneration.md",
     "Gods Table.md",
     "Gods.md",
-    "Hand of Vecna.md",
     "Items/Artifact.md",
     "Classes & Subclasses.md",
     "Azebane.md",
@@ -221,7 +222,6 @@
     "Continents/Wvaerivior.md",
     "Countries/Akadovia.md",
     "Countries/Aihareroth.md",
-    "Continents/Obseofaris.md",
     "Races",
     "Items",
     "Misc Places",
