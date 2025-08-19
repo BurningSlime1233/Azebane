@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "93922ba758f6f3ed",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
             "id": "93956613042ee77d",
             "type": "leaf",
             "state": {
@@ -62,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lignified Ascetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lignified Ascetics"
             }
           },
           {
@@ -221,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93922ba758f6f3ed",
+  "active": "78b301d3966d2a0c",
   "lastOpenFiles": [
     "Characters/Elise.md",
     "Lignified Ascetics.md",
