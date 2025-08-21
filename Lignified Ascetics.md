@@ -1,1 +1,3 @@
 Lignified Ascetics are the trees made from the best of the Archdruids when [[The Cleansing]] began as a punishment from the [[Gods]] for their failure to protect the world. They stand as some of the largest trees in the world, deep within forests and protected by all kinds of magical and natural threats. They are indestructible but often shed twigs which are used in the creation of various magical items as well as spells and rituals.
+
+One Ascetic is not too far from [[Staendale]], deep within the Staendale Forest West of the town. [[Miyabi]] and [[Titian]] would travel to the Ascetic in 300 [[The Third Dawn|TD]] where they were slain by a Sword Wraith. They were destined to fall to [[Umbra]] and [[Elise]] who were called the future by [[The Raven Queen]].
