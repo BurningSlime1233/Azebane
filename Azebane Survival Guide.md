@@ -114,6 +114,8 @@ The party then heads into the cheaper part of town, locating a tavern called the
 
 ## Session 18
 
+Correlaire 22, 308 TD
+
 Next day:
 - Visit Library of Savras
 - Buy Items
