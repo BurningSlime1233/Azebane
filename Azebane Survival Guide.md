@@ -2,6 +2,7 @@
 
 [[Azebane]] Survival Guide is the first campaign played in the world of [[Azebane]]. 
 Party:
+- [[Buster]]
 - [[Cheonma Muwi]]
 - [[Elise]]
 - [[Istara Galaxtien]]
@@ -97,11 +98,17 @@ Not all homes are not celebrating, Dead kids
 
 Umbra meets Elise at night once they find a room and she's alone. Talks to her about her allies. Warns her not to sing the song of the stars to others. Ask her how she is. Does not answer anything about the place she saw or where he's been.
 
-In the morning, Elise and Rarkon meet up with Cheonma
+In the morning, Elise and Rarkon meet up with Cheonma for breakfast where Cheonma reveals his past as a conqueror. This seems to upset Rarkon and Cheonma asks Elise to buy items for him with his share of the Adamantine. 
 
 ## Session 17
 
-a
+As Cheonma leaves, the party fills Victus in on what he missed. Rarkon says he has some personal business, hoping to talk to an old contact of his. He insists on going alone and heads out while Elise and Victus go to the guard station to report the Neogi ship. The guard is very uncaring about the situation, believing its not the business of the guards as it is beyond the area of Einshold. This annoys Elise. Elise and Victus meet an [[Accursed]] named [[Buster]] who joins the group. Victus calls Elise a Hypocrite for not pursuing the Neogi herself. 
+
+As they leave the guard station, they spot Rarkon leaving a tavern, arm in arm with a pair of guards, laughing and joking around, mug of ale in hand. He spots the party and bids the guards farewell, who return to the guard station. Elise complains to him about the guards being lazy, to which he calls over one of the guards, a human named John, and asks him to fill the report for Elise. The party also notices a missing poster for the kid they saw in the woods. John asks the party if they want to talk to the family to which they agree.
+
+The party heads over to the family of the dead kid, on the 3rd floor of an apartment building. The parents seem to have the same tattoos as the child, the same rune written all over their body. They seem very distraught at the news and ask when they saw the boy. Realizing it was 3 days ago, the couple collect some things from their pantry and rush out to locate their child. Victus again calls Elise a hypocrite for not helping more. 
+
+They then go looking for lunch, going to a taco truck run by a [[Tiefling]] Cleric of [[Sebekar]] named [[Debauchery]]. She says she has her secret recipe and she travels around the world, selling tacos. Victus hopes to have her as a chef in his travelling tavern.
 
 Next day:
 - Visit Library of Savras
