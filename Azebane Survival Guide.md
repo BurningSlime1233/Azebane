@@ -72,7 +72,7 @@ Jardogan is the magic item salesman of [[Fenhaven]]. He is a 8th level Forge Cle
 
 ## Session 13
 
-Planetary Dragon gave Elise the spell [[Elise Spell]] after she showed him what she could do. He also told her he would call on her if he needed a task to be done. 
+Planetary Dragon gave Elise the spell [[Voice of Omeltegar]] after she showed him what she could do. He also told her he would call on her if he needed a task to be done. 
 
 ## Session 14
 

@@ -1,6 +1,4 @@
 
-## Voice of Omeltegar
-
 1st Level Evocation
 Casting Time: 1 Action
 Range: Self (30ft cone)
