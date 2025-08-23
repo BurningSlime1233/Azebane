@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lignified Ascetics.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lignified Ascetics"
+              "title": "Azebane Survival Guide"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lignified Ascetics.md",
+                "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lignified Ascetics"
+              "title": "Outgoing links from Azebane Survival Guide"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "78b301d3966d2a0c",
   "lastOpenFiles": [
-    "Characters/Elise.md",
     "Lignified Ascetics.md",
+    "Characters/Elise.md",
     "Items/Staff of Rhythmic Singularity.md",
     "Items/Artifact.md",
     "Planets.md",

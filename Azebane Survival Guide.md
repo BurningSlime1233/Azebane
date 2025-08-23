@@ -84,8 +84,8 @@ Livia sings the Song of the Stars and everyone must succeed a DC 20 Cha save or 
 Ghast Encounter at night on day 5
 
 Day 6, 3 encounters
-1 Cinderslag Elemental (54 hp buff)
-1 Eater of Hope (54 hp buff)
+1 Cinderslag Elemental (54 HP buff)
+1 Eater of Hope (54 HP buff)
 
 Arrive to the outskirts of Einshold on the night of Correlaire 20.
 
@@ -96,6 +96,8 @@ Not all homes are not celebrating, Dead kids
 1 Day spent long resting.
 
 Umbra meets Elise at night once they find a room and she's alone. Talks to her about her allies. Warns her not to sing the song of the stars to others. Ask her how she is. Does not answer anything about the place she saw or where he's been.
+
+## Session 17
 
 Next day:
 - Visit Library of Savras
