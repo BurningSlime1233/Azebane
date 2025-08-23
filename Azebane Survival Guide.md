@@ -97,7 +97,11 @@ Not all homes are not celebrating, Dead kids
 
 Umbra meets Elise at night once they find a room and she's alone. Talks to her about her allies. Warns her not to sing the song of the stars to others. Ask her how she is. Does not answer anything about the place she saw or where he's been.
 
+In the morning, Elise and Rarkon meet up with Cheonma
+
 ## Session 17
+
+a
 
 Next day:
 - Visit Library of Savras
