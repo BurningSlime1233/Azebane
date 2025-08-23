@@ -110,6 +110,10 @@ The party heads over to the family of the dead kid, on the 3rd floor of an apart
 
 They then go looking for lunch, going to a taco truck run by a [[Tiefling]] Cleric of [[Sebekar]] named [[Debauchery]]. She says she has her secret recipe and she travels around the world, selling tacos. Victus hopes to have her as a chef in his travelling tavern.
 
+The party then heads into the cheaper part of town, locating a tavern called the Steel Toe. They purchase 2 rooms for cheap. Here, Victus annoys Elise enough that she uses her Breath of Omeltegar to knock him unconscious. She then heals him using a potion and he is upset. He steps out and is run over by a criminal on a runaway cart. The remainder of the party steps out and Elise is run over by the guards in close pursuit with a carriage powered by Velociraptors. Rarkon and Buster avoid this. They then decide to go back indoors and sleep the rest of the day, calling it a night at 3pm. Elise nearly locks Rarkon out but he tackles her onto the bed.
+
+## Session 18
+
 Next day:
 - Visit Library of Savras
 - Buy Items
