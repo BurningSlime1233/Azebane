@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmic Objects/Planets.md",
+                "file": "Gods Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planets"
+              "title": "Gods Table"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmic Objects/Planets.md",
+                "file": "Gods Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planets"
+              "title": "Backlinks for Gods Table"
             }
           },
           {
@@ -182,11 +182,12 @@
   },
   "active": "60a1a87ddabbbb79",
   "lastOpenFiles": [
+    "Gods.md",
+    "Cosmic Objects/Planets.md",
     "Cosmic Objects/Planets/Azebane.md",
     "Cosmic Objects/Planets",
     "Lignified Ascetics.md",
     "Cosmic Objects",
-    "Cosmic Objects/Planets.md",
     "Voice of Omeltegar.md",
     "Cosmic Objects/Xiatuc.md",
     "Cosmic Objects/Isruph.md",
@@ -203,7 +204,6 @@
     "Gods Table.md",
     "Characters/Vaey Victus.md",
     "Items/Hand of Vecna.md",
-    "Gods.md",
     "Classes & Subclasses.md",
     "Countries/The Stowyyth Dominion.md",
     "The First Dawn.md",
