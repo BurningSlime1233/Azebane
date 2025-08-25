@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane Survival Guide.md",
+                "file": "Continents/Shattered Isles of Aevanandoor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane Survival Guide"
+              "title": "Shattered Isles of Aevanandoor"
             }
           }
         ]
@@ -168,16 +168,16 @@
   },
   "active": "539af082bbc9a674",
   "lastOpenFiles": [
-    "Characters/Elise.md",
     "Azebane Survival Guide.md",
-    "Undying Veneration.md",
     "Lignified Ascetics.md",
+    "/Lignified Ascetics.md",
+    "Characters/Elise.md",
+    "Undying Veneration.md",
     "Items/Staff of Rhythmic Singularity.md",
     "Hand of Vecna.md",
     "Classes & Subclasses.md",
     "Characters/Vaey Victus.md",
     "/Undying Veneration.md",
-    "/Lignified Ascetics.md",
     "/Items/Staff of Rhythmic Singularity.md",
     "/Items/Artifact.md",
     "/Items",
