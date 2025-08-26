@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atibrook Skerry.md",
+                "file": "Characters/Undying Veneration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atibrook Skerry"
+              "title": "Undying Veneration"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "60a1a87ddabbbb79",
   "lastOpenFiles": [
-    "Continents/Shattered Isles of Aevanandoor.md",
     "Atibrook Skerry.md",
+    "Continents/Shattered Isles of Aevanandoor.md",
     "Azebane Geography.md",
     "Azebane Survival Guide.md",
     "Azebane Wiki.md",
