@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Undying Veneration.md",
+                "file": "Living Weapon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Undying Veneration"
+              "title": "Living Weapon"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods Table.md",
+                "file": "Living Weapon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gods Table"
+              "title": "Backlinks for Living Weapon"
             }
           },
           {
@@ -171,8 +171,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,6 +192,11 @@
   },
   "active": "60a1a87ddabbbb79",
   "lastOpenFiles": [
+    "Zalathar, the Immaterial Maw.md",
+    "Living Weapon.md",
+    "Countries/The Stowyyth Dominion.md",
+    "Characters/Thraeranyballyth, the Slumbering.md",
+    "Characters/Undying Veneration.md",
     "Atibrook Skerry.md",
     "Continents/Shattered Isles of Aevanandoor.md",
     "Azebane Geography.md",
@@ -209,7 +213,6 @@
     "Cosmic Objects",
     "Cosmic Objects/Xiatuc.md",
     "Cosmic Objects/Isruph.md",
-    "Characters/Undying Veneration.md",
     "Items/Artifact.md",
     "Characters/Rarkon.md",
     "Characters/Cheonma Muwi.md",
@@ -218,10 +221,6 @@
     "Characters/Debauchery.md",
     "Characters/Elise.md",
     "Characters/Vaey Victus.md",
-    "Items/Hand of Vecna.md",
-    "Classes & Subclasses.md",
-    "Countries/The Stowyyth Dominion.md",
-    "The First Dawn.md",
     "Races",
     "Items",
     "Misc Places",
