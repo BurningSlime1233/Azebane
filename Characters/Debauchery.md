@@ -1,0 +1,3 @@
+Debauchery is a 9th level Tiefling of [[Fierna]], Gluttony Domain Cleric of [[Sebekar]] who travels around [[Azebane]], feeding her tacos to the world. She does not work well with other cooks and loves to be a free spirit, roaming the world. She has tattoos of Sebekar all over her body, alluding to her worship.
+
+She is secretly a cannibal, enjoying the flesh of all manner of races. She is not alone in this, being part of a sect of Sebekar worshippers who are travelling cooks like her, selling all varieties of food. Those who know of her sect can say the phrase "Sobek's Special Spread" in order to receive secret menu items made using humanoid flesh.
