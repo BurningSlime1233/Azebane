@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Shattered Isles of Aevanandoor"
             }
+          },
+          {
+            "id": "7c2ee83d06a4c52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materials"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cc8966acb6a97fe",
+  "active": "7c2ee83d06a4c52c",
   "lastOpenFiles": [
+    "Continents/Shattered Isles of Aevanandoor.md",
+    "Materials.md",
     "Characters/Undying Veneration.md",
     "/Items/Hand of Vecna.md",
     "Items/Hand of Vecna.md",
@@ -195,8 +212,6 @@
     "Zalathar, the Immaterial Maw.md",
     "Cosmic Objects/Isruph.md",
     "/Cosmic Objects/Xiatuc.md",
-    "/Cosmic Objects/Moons.md",
-    "/Zalathar, the Immaterial Maw.md",
     "Custom Spells",
     "Cosmic Objects/Planets",
     "Cosmic Objects",
