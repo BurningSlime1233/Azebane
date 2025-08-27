@@ -24,11 +24,19 @@ Aszite veins can be applied to armor to increase stealthiness. A creature wearin
 
 Armor: 150gp
 
+[[Djezet Tears]]
+These red and gold gemstones have potent arcana stored within. By using a number of Djezet tears equal to a spell's level, a caster can cast a spell using either a spell slots of one level lower or cast the spell such that it is cast at 1 level higher. This cannot cause a spell to be cast without a spell slot or at a level above 9th.
+
+1 Djezet Tears: 600 gold
+
 [[Mithral]]
 Armor made of mithral is significantly lighter and no longer has Strength requirements and no longer imposes disadvantage on Stealth checks. The armor must be made of Mithral not coated. Mithral armor is non magical.
 
 Medium Armor: 1000gp
 Heavy Armor: 1500gp
+
+[[Mizzium]]
+Mizzium armor costs and functions the same as Adamantine. Mizzium weapons cost the same as Adamantine Weapons but instead of dealing critical damage to objects, they can be used as magical foci.
 
 [[Moongold]]
 Moongilded weapons are coated in a layer of Moongold which wears off after 90 days. A creature wielding a moongilded weapon has advantage on saves against madness or the frightened condition. Moongilded weapons count as magical for purposes of overcoming resistance or immunity to non magical damage. They deal an extra 1d4 damage against creatures that are not humanoids.
