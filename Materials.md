@@ -24,6 +24,13 @@ Aszite veins can be applied to armor to increase stealthiness. A creature wearin
 
 Armor: 150gp
 
+[[Caphorite]]
+This dull, dark green stone can be powdered to cover a 10ft x 10ft area, revealing any magic in the area like a detect magic spell. Ammunition made of Caphorite detonates on impact, forcing creatures in a 5ft radius sphere to make a DC 14 Dex Save or take 10(2d10) fire damage.
+
+Caphorite pebble: 50 gold
+Caphorite ammunition: +20 gold each
+
+
 [[Djezet Tears]]
 These red and gold gemstones have potent arcana stored within. By using a number of Djezet tears equal to a spell's level, a caster can cast a spell using either a spell slots of one level lower or cast the spell such that it is cast at 1 level higher. This cannot cause a spell to be cast without a spell slot or at a level above 9th.
 
