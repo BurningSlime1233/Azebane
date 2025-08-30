@@ -2,4 +2,4 @@ Living Weapon refers to a category of creatures that were created during [[The F
 
 ### List of Living Weapons
 - [[Thraeranyballyth, the Slumbering]]
-- [[Living Weapons/Zalathar, the Immaterial Maw]]mmaterial Maw]]
+- [[Living Weapons/Zalathar, the Immaterial Maw]]

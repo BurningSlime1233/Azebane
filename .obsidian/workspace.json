@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60a1a87ddabbbb79",
+            "id": "bb21055dd23877fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living Weapon.md",
+                "file": "Planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Living Weapon"
+              "title": "Planes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Weapon.md",
+                "file": "Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Living Weapon"
+              "title": "Backlinks for Planes"
             }
           },
           {
@@ -190,8 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60a1a87ddabbbb79",
+  "active": "bb21055dd23877fd",
   "lastOpenFiles": [
+    "Gods.md",
+    "Planes.md",
+    "Living Weapon.md",
     "Materials.md",
     "Living Weapons/Zalathar, the Immaterial Maw.md",
     "Living Weapons/Thraeranyballyth, the Slumbering.md",
@@ -199,7 +202,6 @@
     "Islands/Atibrook Skerry.md",
     "Islands",
     "Zalathar, the Immaterial Maw.md",
-    "Living Weapon.md",
     "Countries/The Stowyyth Dominion.md",
     "Characters/Thraeranyballyth, the Slumbering.md",
     "Characters/Undying Veneration.md",
@@ -211,7 +213,6 @@
     "Custom Spells/Voice of Omeltegar.md",
     "Custom Spells",
     "Gods Table.md",
-    "Gods.md",
     "Cosmic Objects/Planets.md",
     "Cosmic Objects/Planets/Azebane.md",
     "Cosmic Objects/Planets",
@@ -222,7 +223,6 @@
     "Items/Artifact.md",
     "Characters/Rarkon.md",
     "Characters/Cheonma Muwi.md",
-    "Characters/Duchess Zenoishara.md",
     "Races",
     "Items",
     "Misc Places",
