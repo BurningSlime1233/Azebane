@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Living Weapon"
             }
-          },
-          {
-            "id": "3cbf31ecf57bc9f2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Living Weapon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Living Weapon"
             }
           },
           {
@@ -202,8 +190,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3cbf31ecf57bc9f2",
+  "active": "60a1a87ddabbbb79",
   "lastOpenFiles": [
+    "Materials.md",
+    "Living Weapons/Zalathar, the Immaterial Maw.md",
+    "Living Weapons/Thraeranyballyth, the Slumbering.md",
+    "Living Weapons",
+    "Islands/Atibrook Skerry.md",
+    "Islands",
     "Zalathar, the Immaterial Maw.md",
     "Living Weapon.md",
     "Countries/The Stowyyth Dominion.md",
@@ -229,17 +223,11 @@
     "Characters/Rarkon.md",
     "Characters/Cheonma Muwi.md",
     "Characters/Duchess Zenoishara.md",
-    "Items/Staff of Rhythmic Singularity.md",
-    "Characters/Debauchery.md",
-    "Characters/Elise.md",
-    "Characters/Vaey Victus.md",
     "Races",
     "Items",
     "Misc Places",
     "Organizations",
     "Cities",
-    "Characters",
-    "Continents",
     "Untitled.canvas"
   ]
 }
