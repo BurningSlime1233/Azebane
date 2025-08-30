@@ -33,6 +33,7 @@
 [[Acheron]]
 [[Arborea]]
 [[Arcadia]]
+[[Astral Plane]]
 [[Beastlands]]
 [[Bytopia]]
 [[Carceri]]
