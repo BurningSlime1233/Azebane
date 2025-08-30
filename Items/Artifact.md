@@ -1,8 +1,11 @@
 An artifact is a magic item of great power that cannot be replicated or suppressed. Their creation becomes a focal point of reality, altering fate and the world itself. Their destruction is immensely difficult, often involving a long convoluted method, often the method that is the polar opposite of their creation.
 
 ## List of Artifacts
+[[Adriyana's Garter]]
 [[Adze of Annam]]
 [[Agony]]
+[[Amulet of Supremacy]]
+[[Andrathath's Mask]]
 [[Ankh of Life]]
 [[Axe of the Dwarvish Lords]]
 [[Baba Yaga's Mortar and Pestle]]
@@ -25,12 +28,14 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 [[Mighty Servant of Leuk-o]]
 [[Nether Scrolls]]
 [[Orrey of the Wanderer]]
+[[Prison of Zagyg]]
 [[Ring of Winter]]
 [[Rod of Seven Parts]]
 [[Ruby Rod of Asmodeus]]
 [[Ruin's Wake]]
 [[Scepter of Savras]]
 [[Shattered Crown of the Obyriths]]
+[[Skin of Malar]]
 [[Silken Spite]]
 [[Staff of the Forgotten One]]
 [[Sword of Kas]]
