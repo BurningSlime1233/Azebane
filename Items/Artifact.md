@@ -3,7 +3,6 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 ## List of Artifacts
 [[Adriyana's Garter]]
 [[Adze of Annam]]
-[[Agony]]
 [[Amulet of Supremacy]]
 [[Andrathath's Mask]]
 [[Ankh of Life]]
