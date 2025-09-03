@@ -11,14 +11,10 @@
             "id": "bb21055dd23877fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Planes"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planes"
+              "title": "Backlinks"
             }
           },
           {
@@ -192,8 +187,11 @@
   },
   "active": "bb21055dd23877fd",
   "lastOpenFiles": [
-    "Gods.md",
     "Planes.md",
+    "Planes/Planes.md",
+    "Planes/Astral Plane.md",
+    "Planes",
+    "Gods.md",
     "Living Weapon.md",
     "Materials.md",
     "Living Weapons/Zalathar, the Immaterial Maw.md",
@@ -221,13 +219,10 @@
     "Cosmic Objects/Xiatuc.md",
     "Cosmic Objects/Isruph.md",
     "Items/Artifact.md",
-    "Characters/Rarkon.md",
-    "Characters/Cheonma Muwi.md",
     "Races",
     "Items",
     "Misc Places",
     "Organizations",
-    "Cities",
     "Untitled.canvas"
   ]
 }
