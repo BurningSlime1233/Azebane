@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thirsting Épée Sanguine.md",
+                "file": "Ruby Rod of Asmodeus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thirsting Épée Sanguine"
+              "title": "Ruby Rod of Asmodeus"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thirsting Épée Sanguine.md",
+                "file": "Ruby Rod of Asmodeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thirsting Épée Sanguine"
+              "title": "Backlinks for Ruby Rod of Asmodeus"
             }
           },
           {
@@ -193,6 +193,7 @@
   "active": "bb21055dd23877fd",
   "lastOpenFiles": [
     "Items/Artifact.md",
+    "Ruby Rod of Asmodeus.md",
     "Thirsting Épée Sanguine.md",
     "Agony.md",
     "Races (Playable).md",
@@ -221,7 +222,6 @@
     "Custom Spells",
     "Gods Table.md",
     "Cosmic Objects/Planets.md",
-    "Cosmic Objects/Planets/Azebane.md",
     "Cosmic Objects/Planets",
     "Cosmic Objects",
     "Races",
