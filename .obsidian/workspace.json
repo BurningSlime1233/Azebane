@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Xeomidion.md",
+                "file": "Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xeomidion"
+              "title": "Materials"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Countries/Xeomidion.md",
+                "file": "Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xeomidion"
+              "title": "Backlinks for Materials"
             }
           },
           {
@@ -192,6 +192,7 @@
   },
   "active": "bb21055dd23877fd",
   "lastOpenFiles": [
+    "Countries/Xeomidion.md",
     "Characters/Elise.md",
     "Azebane Survival Guide.md",
     "Thirsting Épée Sanguine.md",
@@ -221,7 +222,6 @@
     "Azebane Wiki.md",
     "Custom Spells/Voice of Omeltegar.md",
     "Custom Spells",
-    "Gods Table.md",
     "Cosmic Objects/Planets",
     "Cosmic Objects",
     "Races",
