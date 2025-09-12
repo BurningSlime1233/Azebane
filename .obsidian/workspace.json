@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Materials"
+              "title": "Azebane Survival Guide"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials.md",
+                "file": "Azebane Survival Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Materials"
+              "title": "Backlinks for Azebane Survival Guide"
             }
           },
           {
@@ -192,6 +192,7 @@
   },
   "active": "bb21055dd23877fd",
   "lastOpenFiles": [
+    "Materials.md",
     "Countries/Xeomidion.md",
     "Characters/Elise.md",
     "Azebane Survival Guide.md",
@@ -207,7 +208,6 @@
     "Planes",
     "Gods.md",
     "Living Weapon.md",
-    "Materials.md",
     "Living Weapons/Zalathar, the Immaterial Maw.md",
     "Living Weapons/Thraeranyballyth, the Slumbering.md",
     "Living Weapons",
