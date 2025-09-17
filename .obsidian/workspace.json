@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Debauchery.md",
+                "file": "Cosmic Objects/Moons/Aethoros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debauchery"
+              "title": "Aethoros"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Debauchery.md",
+                "file": "Cosmic Objects/Moons/Aethoros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Debauchery"
+              "title": "Backlinks for Aethoros"
             }
           },
           {
@@ -192,6 +192,21 @@
   },
   "active": "bb21055dd23877fd",
   "lastOpenFiles": [
+    "Cosmic Objects/Moons.md",
+    "Cosmic Objects/Moons/Aethoros.md",
+    "Cosmic Objects/Moons",
+    "Cosmic Objects/Planets/Azebane.md",
+    "Cities/Fenhaven.md",
+    "Cosmic Objects/Isruph.md",
+    "Cosmic Objects/Planets.md",
+    "Azebane Geography.md",
+    "Maps/Xia Ruph System.png",
+    "Maps/Wvaerivior Cities Map.png",
+    "Characters/Debauchery.md",
+    "Maps/Azebane Country Map.png",
+    "Maps/Azebane Continent & Ocean Map.png",
+    "Maps/Capitals Map.png",
+    "Maps",
     "Characters/Duchess Zenoishara.md",
     "Azebane Survival Guide.md",
     "Materials.md",
@@ -213,21 +228,11 @@
     "Living Weapons/Thraeranyballyth, the Slumbering.md",
     "Living Weapons",
     "Islands",
-    "Zalathar, the Immaterial Maw.md",
-    "Countries/The Stowyyth Dominion.md",
-    "Characters/Thraeranyballyth, the Slumbering.md",
-    "Characters/Undying Veneration.md",
-    "Atibrook Skerry.md",
-    "Continents/Shattered Isles of Aevanandoor.md",
-    "Azebane Geography.md",
-    "Azebane Wiki.md",
     "Custom Spells",
     "Cosmic Objects/Planets",
     "Cosmic Objects",
     "Races",
     "Items",
-    "Misc Places",
-    "Organizations",
     "Untitled.canvas"
   ]
 }
