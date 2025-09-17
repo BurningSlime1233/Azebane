@@ -1,6 +1,6 @@
 Aethoros is one of the two moons of [[Azebane]] along with [[Zaereon]]. It is covered in a lush and beautiful green jungle filled with wildlife called [[]], with hundreds of floating islands, drifting lazily around, that occasionally opens up into its watery depths that form the majority of its actual mass called [[The Stomach of Aethoros]]. This unique geography results in a very flora and fauna filled surface whereas the oft below ground waters, being blocked of sunlight, have little to know light.
 
-A day on Aethoros is 8 hours, 4 hours of night and 4 hours of daylight. As a result, 3 days on Aethoros are one day on Azebane. Dates on Aethoros fol
+A day on Aethoros is 8 hours, 4 hours of night and 4 hours of daylight. As a result, 3 days on Aethoros are one day on Azebane. Dates on Aethoros follow the [[Azic Calendar]] but a suffix is added onto the number of the day to signify what third of the date it is. Those being Primon, Duon and Trikon. For example, a date would be Correlaire 21 Duon, 300 TD.
 
 The entrances to [[The Stomach of Aethoros]] are sometimes huge lakes or caverns where the surface gently lowers into the water. usually however, they are huge chasms, kilometers deep, almost like valleys, that open up into the unmoving waters of the Stomach.
 
