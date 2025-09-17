@@ -1,1 +1,1 @@
-The Ruby 
+The Ruby of the [[Ruby Rod of Asmodeus]] contains a tiny fragment of the [[Shard of Pure Evil]]
