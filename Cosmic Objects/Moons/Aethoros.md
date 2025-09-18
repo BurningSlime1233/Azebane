@@ -1,4 +1,4 @@
-Aethoros is one of the two moons of [[Azebane]] along with [[Zaereon]]. It is covered in a lush and beautiful green jungle filled with wildlife called [[]], with hundreds of floating islands, drifting lazily around, that occasionally opens up into its watery depths that form the majority of its actual mass called [[The Stomach of Aethoros]]. This unique geography results in a very flora and fauna filled surface whereas the oft below ground waters, being blocked of sunlight, have little to know light.
+Aethoros is one of the two moons of [[Azebane]] along with [[Zaereon]]. It is covered in a lush and beautiful green jungle filled with wildlife with hundreds of floating islands, drifting lazily around, that occasionally opens up into its watery depths that form the majority of its actual mass called [[The Stomach of Aethoros]]. This unique geography results in a very flora and fauna filled surface whereas the oft below ground waters, being blocked of sunlight, have little to know light.
 
 A day on Aethoros is 8 hours, 4 hours of night and 4 hours of daylight. As a result, 3 days on Aethoros are one day on Azebane. Dates on Aethoros follow the [[Azic Calendar]] but a suffix is added onto the number of the day to signify what third of the date it is. Those being Primon, Duon and Trikon. For example, a date would be Correlaire 21 Duon, 300 TD.
 
@@ -9,3 +9,27 @@ One of the many strange things of Aethoros are the hundreds of ancient, rune car
 Another strange thing is its total disconnection from the Feywild. There is no corresponding place for Aethoros on the Feywild. Despite this, Wild Magic areas are common on the moon. A 3 day period centered on its full moon causes wild magic areas on the 30% of [[Azebane]] (DC 15, 50% chance when a spell is cast), the part most focused on it.
 
 Deep within [[The Stomach of Aethoros]], at the center of the very moon, lies the source or cause atleast for all of the strangeness of Aethoros. Dubbed [[The Jaw of Aethoros]], it is a seemingly all consuming singularity that warps space and even time around it. no one truly knows of its size or even its true shape as such terms become meaningless in its presence. The [[Lithos Dunameso]] exist in order to restrain it, floating as a result of the power they sap from it.
+
+## Native Species
+- [[Aasimar]]
+- [[Amperi]]
+- [[Dragonborn]]
+- [[Dwarf]]
+- [[Elf]] ([[High Elf]], [[Mul Daya Elf]], [[Sea Elf]], [[Wood Elf]])
+- [[Firbolg]]
+- [[Florauna]]
+- [[Flowerfolk]]
+- [[Gnome]]
+- [[Halfling]]
+- [[Hivebody]]
+- [[Human]]
+- [[Kalashtar]]
+- [[Kijin]]
+- [[Kor]]
+- [[Lizardfolk]]
+- [[Locathah]]
+- [[Minotaur]]
+- [[Orc]]
+- [[Tabaxi]]
+- [[Thri-Kreen]]
+- [[Ti]]
