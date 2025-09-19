@@ -142,3 +142,11 @@ Mini Dungeon:
 3. Puzzle
 4. Deep Dragon
 
+## Session 19
+Cheonma died lmao
+[[Ashen]] joins the party
+Rarkon was found wasted and injured. Lesser Restoration cured the effects.
+Rarkon has an unused Brand of Baphomet on him as well as several used ones.
+Letter to victus by Undying Veneration
+108, Chimera lane, right of the tavern, "The Shattered Wings", say the words "Undying Veneration"
+They ate Syrian shawarma
