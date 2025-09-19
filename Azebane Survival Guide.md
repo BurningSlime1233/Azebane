@@ -2,6 +2,7 @@
 
 [[Azebane]] Survival Guide is the first campaign played in the world of [[Azebane]]. 
 Party:
+- [[Ashen]]
 - [[Buster]]
 - [[Cheonma Muwi]]
 - [[Elise]]
@@ -145,6 +146,7 @@ Mini Dungeon:
 ## Session 19
 Cheonma died lmao
 [[Ashen]] joins the party
+Ashen owes [[Magnys]] 5000gp, with a 10% yearly interest every [[Correlaire]] 22.
 Rarkon was found wasted and injured. Lesser Restoration cured the effects.
 Rarkon has an unused Brand of Baphomet on him as well as several used ones.
 Letter to victus by Undying Veneration
