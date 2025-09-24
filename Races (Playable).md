@@ -79,6 +79,7 @@ The following is a list of major races seen across the [[Xia-Ruph System]] and t
 ## [[Satyr]]
 ## [[Scourgeborne]]
 ## [[Scrap Golem]]
+## [[Shifter]]
 ## [[Siren]]
 ## [[Svirfneblin (Deep Gnome)]]
 ## [[Tabaxi]]
