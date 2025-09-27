@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/Vecna.md",
+                "file": "Races (Playable).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vecna"
+              "title": "Races (Playable)"
+            }
+          },
+          {
+            "id": "819c845cc379080c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xixchil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xixchil"
             }
           },
           {
@@ -55,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races (Playable).md",
+                "file": "Races/Crystalsapien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Races (Playable)"
+              "title": "Crystalsapien"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/Vecna.md",
+                "file": "Xixchil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vecna"
+              "title": "Backlinks for Xixchil"
             }
           },
           {
@@ -233,11 +247,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85fe7ff63087d89c",
+  "active": "819c845cc379080c",
   "lastOpenFiles": [
+    "Cities/Fenhaven.md",
+    "Xixchil.md",
+    "Material Plane.md",
+    "Races (Playable).md",
+    "Races/Crystalsapien.md",
+    "Azebane Geography.md",
+    "Gods/Vecna.md",
+    "Magnys.md",
     "Cosmic Objects/Moons/Aethoros.md",
     "Cosmic Objects/Moons/Zaereon.md",
-    "Magnys.md",
     "Ashen.md",
     "Azebane Survival Guide.md",
     "Races/Biot-Savartian.md",
@@ -245,20 +266,16 @@
     "Gods Table.md",
     "Gods.md",
     "The Jaw of Aethoros.md",
-    "Races (Playable).md",
     "Organizations/The Imperceptible.md",
     "Ruby Rod of Asmodeus.md",
     "The Stomach of Aethoros.md",
-    "Gods/Vecna.md",
     "Gods",
     "Untitled.md",
     "Cosmic Objects/Moons.md",
     "Cosmic Objects/Moons",
     "Cosmic Objects/Planets/Azebane.md",
-    "Cities/Fenhaven.md",
     "Cosmic Objects/Isruph.md",
     "Cosmic Objects/Planets.md",
-    "Azebane Geography.md",
     "Maps/Xia Ruph System.png",
     "Maps/Wvaerivior Cities Map.png",
     "Characters/Debauchery.md",
@@ -266,9 +283,6 @@
     "Maps/Azebane Continent & Ocean Map.png",
     "Maps/Capitals Map.png",
     "Maps",
-    "Characters/Duchess Zenoishara.md",
-    "Materials.md",
-    "Countries/Xeomidion.md",
     "Planes",
     "Living Weapons",
     "Islands",
