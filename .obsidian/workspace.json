@@ -36,32 +36,6 @@
             }
           },
           {
-            "id": "819c845cc379080c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xixchil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Xixchil"
-            }
-          },
-          {
-            "id": "8cca77da4f9f3f36",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
             "id": "dfdb259f58ac19ea",
             "type": "leaf",
             "state": {
@@ -79,14 +53,10 @@
             "id": "eab7d1bc3ba582fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Races/Crystalsapien.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crystalsapien"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -122,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "artifa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elise.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elise"
+              "title": "Outline"
             }
           },
           {
@@ -239,7 +208,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -258,14 +228,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cca77da4f9f3f36",
+  "active": "eab7d1bc3ba582fa",
   "lastOpenFiles": [
     "Items/Ruby Rod of Asmodeus.md",
-    "Cities/Fenhaven.md",
-    "Xixchil.md",
-    "Material Plane.md",
-    "Races (Playable).md",
+    "Ruby Rod of Asmodeus.md",
+    "Items/Artifact.md",
     "Races/Crystalsapien.md",
+    "Races (Playable).md",
+    "2025-10-04.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Gods Table.md",
+    "Xixchil.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Gods.md",
+    "Cities/Fenhaven.md",
+    "Material Plane.md",
     "Azebane Geography.md",
     "Gods/Vecna.md",
     "Magnys.md",
@@ -275,19 +256,14 @@
     "Azebane Survival Guide.md",
     "Races/Biot-Savartian.md",
     "To'Kustar.md",
-    "Gods Table.md",
-    "Gods.md",
     "The Jaw of Aethoros.md",
     "Organizations/The Imperceptible.md",
-    "Ruby Rod of Asmodeus.md",
     "The Stomach of Aethoros.md",
     "Gods",
     "Untitled.md",
     "Cosmic Objects/Moons.md",
     "Cosmic Objects/Moons",
     "Cosmic Objects/Planets/Azebane.md",
-    "Cosmic Objects/Isruph.md",
-    "Cosmic Objects/Planets.md",
     "Maps/Xia Ruph System.png",
     "Maps/Wvaerivior Cities Map.png",
     "Maps/Azebane Country Map.png",
@@ -296,11 +272,6 @@
     "Maps",
     "Planes",
     "Living Weapons",
-    "Islands",
-    "Custom Spells",
-    "Cosmic Objects/Planets",
-    "Cosmic Objects",
-    "Races",
-    "Untitled.canvas"
+    "Islands"
   ]
 }

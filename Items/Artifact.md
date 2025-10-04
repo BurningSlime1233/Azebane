@@ -30,7 +30,7 @@ An artifact is a magic item of great power that cannot be replicated or suppress
 [[Prison of Zagyg]]
 [[Ring of Winter]]
 [[Rod of Seven Parts]]
-[[Ruby Rod of Asmodeus]]
+[[Items/Ruby Rod of Asmodeus|Ruby Rod of Asmodeus]]
 [[Ruin's Wake]]
 [[Scepter of Savras]]
 [[Shattered Crown of the Obyriths]]
