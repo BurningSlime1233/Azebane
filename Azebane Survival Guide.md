@@ -152,3 +152,4 @@ Rarkon has an unused Brand of Baphomet on him as well as several used ones.
 Letter to victus by Undying Veneration
 108, Chimera lane, right of the tavern, "The Shattered Wings", say the words "Undying Veneration"
 They ate Syrian shawarma
+
