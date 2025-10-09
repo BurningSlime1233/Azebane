@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmic Objects/Moons/Zaereon.md",
+                "file": "Gods/Vecna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zaereon"
+              "title": "Vecna"
             }
           }
         ]
@@ -168,6 +168,10 @@
   },
   "active": "539af082bbc9a674",
   "lastOpenFiles": [
+    "Cosmic Objects/Moons/Zaereon.md",
+    "/Items/Artifact.md",
+    "/Items",
+    "/Gods.md",
     "Cosmic Objects/Moons/Aethoros.md",
     "Countries/Aihareroth.md",
     "Races (Playable).md",
@@ -182,14 +186,12 @@
     "/Xixchil.md",
     "/Races/Crystalsapien.md",
     "/Races",
-    "Cosmic Objects/Moons/Zaereon.md",
     "Magnys.md",
     "/Races/Biot-Savartian.md",
     "/Cosmic Objects/Moons/Zaereon.md",
     "/Azebane Survival Guide.md",
     "/Races (Playable).md",
     "/Magnys.md",
-    "/Gods.md",
     "/Gods Table.md",
     "/Cosmic Objects/Moons/Aethoros.md",
     "/Cosmic Objects/Moons",
@@ -206,8 +208,6 @@
     "/Maps/Capitals Map.png",
     "/Maps/Azebane Country Map.png",
     "/Maps/Azebane Continent & Ocean Map.png",
-    "/Items/Artifact.md",
-    "/Items",
     "Maps",
     "Gods",
     "/Maps",
