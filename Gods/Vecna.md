@@ -11,4 +11,4 @@ He watches worlds decay alone.
 A hymn of frost, a song so deep, 
 It haunts the air, it stains your sleep. 
 He does not come with flame or sword, 
-He is the storm. He is the word.
+He is the storm. He is the word. 
