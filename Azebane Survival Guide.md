@@ -154,3 +154,6 @@ Letter to victus by Undying Veneration
 They ate Syrian shawarma
 
 ## Session 20
+
+[[Xixchil]] named Darty in Einshold
+[[Xixchil]] named Buzzsaw in Laikedrari who knows Umbra
