@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb21055dd23877fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azebane Survival Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azebane Survival Guide"
-            }
-          },
-          {
-            "id": "85fe7ff63087d89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Races (Playable).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Races (Playable)"
-            }
-          },
-          {
-            "id": "dfdb259f58ac19ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cosmic Objects/Moons/Aethoros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aethoros"
-            }
-          },
-          {
             "id": "eab7d1bc3ba582fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azebane Survival Guide.md",
+                "file": "Characters/Anointed Legion/Anointed Legion of Asmodeus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azebane Survival Guide"
+              "title": "Anointed Legion of Asmodeus"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artifa",
+                "query": "anointed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods.md",
+                "file": "Characters/Anointed Legion/Anointed Legion of Asmodeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gods"
+              "title": "Backlinks for Anointed Legion of Asmodeus"
             }
           },
           {
@@ -156,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmic Objects/Planets.md",
+                "file": "Characters/Anointed Legion/Anointed Legion of Asmodeus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planets"
+              "title": "Outgoing links from Anointed Legion of Asmodeus"
             }
           },
           {
@@ -215,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,12 +191,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eab7d1bc3ba582fa",
+  "active": "411d180937779985",
   "lastOpenFiles": [
+    "Azebane Survival Guide.md",
+    "Characters/Anointed Legion/Anointed Legion of Asmodeus.md",
+    "Characters/Anointed Legion",
+    "Cities/Fenhaven.md",
     "Azebane Geography.md",
     "Classes & Subclasses.md",
     "Races (Playable).md",
-    "Azebane Survival Guide.md",
     "Gods/Vecna.md",
     "Gods.md",
     "Items/Ruby Rod of Asmodeus.md",
@@ -255,7 +215,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Cities/Fenhaven.md",
     "Material Plane.md",
     "Magnys.md",
     "Cosmic Objects/Moons/Aethoros.md",
@@ -268,7 +227,6 @@
     "The Stomach of Aethoros.md",
     "Gods",
     "Untitled.md",
-    "Cosmic Objects/Moons.md",
     "Cosmic Objects/Moons",
     "Maps/Xia Ruph System.png",
     "Maps/Wvaerivior Cities Map.png",
@@ -277,7 +235,6 @@
     "Maps/Capitals Map.png",
     "Maps",
     "Planes",
-    "Living Weapons",
-    "Islands"
+    "Living Weapons"
   ]
 }
