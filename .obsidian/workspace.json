@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Anointed Legion/Thorgut.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thorgut"
+              "title": "Azebane Survival Guide"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Anointed Legion/Thorgut.md",
+                "file": "Azebane Survival Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thorgut"
+              "title": "Backlinks for Azebane Survival Guide"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Anointed Legion/Thorgut.md",
+                "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thorgut"
+              "title": "Outgoing links from Azebane Survival Guide"
             }
           },
           {
@@ -193,10 +193,10 @@
   },
   "active": "eab7d1bc3ba582fa",
   "lastOpenFiles": [
+    "Characters/Anointed Legion/Thorgut.md",
     "Characters/Anointed Legion/Narcissa.md",
     "Characters/Anointed Legion/Kelmenor Emberpride.md",
     "Characters/Anointed Legion/Khaizon V.md",
-    "Characters/Anointed Legion/Thorgut.md",
     "Azebane Survival Guide.md",
     "Characters/Rarkon.md",
     "Cosmic Objects/Moons/Aethoros.md",
