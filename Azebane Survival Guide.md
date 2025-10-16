@@ -1,6 +1,7 @@
 #campaign_notes #azebane_survival_guide
 
 [[Azebane]] Survival Guide is the first campaign played in the world of [[Azebane]]. 
+[[Azebane Survival Guide Piety Tracker]]
 Party:
 - [[Ashen]]
 - [[Buster]]
