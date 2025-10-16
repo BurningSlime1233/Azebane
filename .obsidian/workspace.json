@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/Vecna.md",
+                "file": "Azebane Survival Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vecna"
+              "title": "Azebane Survival Guide"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Vecna.md",
+                "file": "Azebane Survival Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vecna"
+              "title": "Outgoing links from Azebane Survival Guide"
             }
           },
           {
@@ -193,6 +193,8 @@
   },
   "active": "eab7d1bc3ba582fa",
   "lastOpenFiles": [
+    "Characters/Elise.md",
+    "Gods/Vecna.md",
     "Azebane Survival Guide.md",
     "Characters/Anointed Legion/Thorgut.md",
     "Characters/Anointed Legion/Narcissa.md",
@@ -209,7 +211,6 @@
     "Cities/Fenhaven.md",
     "Azebane Geography.md",
     "Classes & Subclasses.md",
-    "Gods/Vecna.md",
     "Gods.md",
     "Ruby Rod of Asmodeus.md",
     "Items/Artifact.md",
@@ -225,7 +226,6 @@
     "Untitled.base",
     "Material Plane.md",
     "Magnys.md",
-    "Cosmic Objects/Moons/Zaereon.md",
     "Gods",
     "Cosmic Objects/Moons",
     "Maps/Xia Ruph System.png",
