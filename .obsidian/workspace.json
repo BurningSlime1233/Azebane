@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes & Subclasses.md",
+                "file": "Endless Expanse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes & Subclasses"
+              "title": "Endless Expanse"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes & Subclasses.md",
+                "file": "Endless Expanse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Classes & Subclasses"
+              "title": "Outgoing links from Endless Expanse"
             }
           },
           {
@@ -193,6 +193,10 @@
   },
   "active": "eab7d1bc3ba582fa",
   "lastOpenFiles": [
+    "Planes/Planes.md",
+    "Endless Expanse.md",
+    "Planes/Astral Plane.md",
+    "Classes & Subclasses.md",
     "Gods.md",
     "Gods/Vecna.md",
     "Azebane Survival Guide.md",
@@ -212,20 +216,16 @@
     "Races (Playable).md",
     "Characters/Anointed Legion",
     "Azebane Geography.md",
-    "Classes & Subclasses.md",
     "Ruby Rod of Asmodeus.md",
     "Items/Artifact.md",
     "Races/Crystalsapien.md",
     "2025-10-04.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Gods Table.md",
-    "Xixchil.md",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Material Plane.md",
     "Gods",
     "Cosmic Objects/Moons",
     "Maps/Xia Ruph System.png",
