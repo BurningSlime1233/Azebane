@@ -1,1 +1,1 @@
-The Endless Expanse is a Demiplane within the [[Astral Plane]] that is segmented off and partitioned, allowing storage and is accessed through objects like Bags of Holding, Por
+The Endless Expanse is a Demiplane within the [[Astral Plane]] that is segmented off and partitioned, allowing storage and is accessed through objects like Bags of Holding, Portable Holes
