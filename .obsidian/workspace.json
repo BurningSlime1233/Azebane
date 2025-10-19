@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/Vecna.md",
+                "file": "Classes & Subclasses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vecna"
+              "title": "Classes & Subclasses"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Vecna.md",
+                "file": "Classes & Subclasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vecna"
+              "title": "Outgoing links from Classes & Subclasses"
             }
           },
           {
@@ -193,11 +193,12 @@
   },
   "active": "eab7d1bc3ba582fa",
   "lastOpenFiles": [
+    "Gods.md",
+    "Gods/Vecna.md",
     "Azebane Survival Guide.md",
     "Cities/Fenhaven.md",
     "Azebane Survival Guide Piety Tracker.md",
     "Characters/Elise.md",
-    "Gods/Vecna.md",
     "Characters/Anointed Legion/Thorgut.md",
     "Characters/Anointed Legion/Narcissa.md",
     "Characters/Anointed Legion/Kelmenor Emberpride.md",
@@ -212,7 +213,6 @@
     "Characters/Anointed Legion",
     "Azebane Geography.md",
     "Classes & Subclasses.md",
-    "Gods.md",
     "Ruby Rod of Asmodeus.md",
     "Items/Artifact.md",
     "Races/Crystalsapien.md",
