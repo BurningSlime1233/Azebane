@@ -1,2 +1,3 @@
 The Endless Expanse is a Demiplane within the [[Astral Plane]] that is segmented off and partitioned, allowing storage and is accessed through objects like Bags of Holding, Portable Holes or Handy Haversacks. Most people, including almost all magic item craftsmen, do not know of this reality. The existence of this Demiplane is limited to planar scholars who do not tell others of this Demiplane partially because most people would refuse to believe it but also to allow the continued usage of these items. 
 
+[[Tindalos, the Lord of the Endless Expanse]]
