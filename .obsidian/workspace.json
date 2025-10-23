@@ -11,14 +11,12 @@
             "id": "4eeeba2848a429e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Yveltal, the Wings of Oblivion.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Zygarde 1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Yveltal, the Wings of Oblivion"
+              "icon": "lucide-image",
+              "title": "Zygarde 1"
             }
           }
         ]
@@ -192,8 +190,8 @@
   },
   "active": "4eeeba2848a429e7",
   "lastOpenFiles": [
-    "Zygarde, The Body of a Billion Minds.md",
     "Yveltal, the Wings of Oblivion.md",
+    "Zygarde, The Body of a Billion Minds.md",
     "Xia-Ruph System.md",
     "Living Weapon.md",
     "Images/Zygarde 1.jpg",
