@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/Vecna.md",
+                "file": "Characters/Tindalos, the Lord of the Endless Expanse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vecna"
+              "title": "Tindalos, the Lord of the Endless Expanse"
             }
           }
         ]
@@ -166,8 +166,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cc8966acb6a97fe",
+  "active": "539af082bbc9a674",
   "lastOpenFiles": [
+    "Characters/Rarkon.md",
+    "Gods/Vecna.md",
     "/Items/Thirsting Épée Sanguine.md",
     "Items/Thirsting Épée Sanguine.md",
     "/Items",
@@ -205,8 +207,6 @@
     "/Countries/Xeomidion.md",
     "/Countries",
     "/Characters/Tindalos, the Lord of the Endless Expanse.md",
-    "/Characters/Anointed Legion/Thorgut.md",
-    "/Characters/Anointed Legion/Narcissa.md",
     "Images",
     "/Images",
     "/Characters/Anointed Legion",
