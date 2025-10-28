@@ -1,1 +1,4 @@
-Changelings are a type of highly mutable [[Fey]] who can change their appearance to look like anyone else. They are very often hired as spies and assassins. They love creating new identities.
+Changelings are a type of highly mutable [[Fey]] who can change their appearance to look like anyone else. They are very often hired as spies and assassins but arent necessarily the most trusted or reliable. They love to create new identities and often have a variety of personalities as well. Each changeling has some kind of unique physical trait or quirk that they keep consistent across all transformations that other changelings use to identify them. They have expensive tastes, enjoying the finer things in life and preferring a life of luxury over hard work. They rarely show their true form, preferring to keep it something only shown to close friends or family in private. 
+
+### Origins
+The true origins of the Changeling, as well as related races; the [[Strangeling]] and the [[Wierd]], is something lost to time. Believed to only be remembered by [[Titania]] and [[The Queen Of Air and Darkness]], others have made a variety of theories. 

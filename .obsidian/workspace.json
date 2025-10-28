@@ -11,12 +11,14 @@
             "id": "4eeeba2848a429e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Zygarde 1.jpg"
+                "file": "Races/Changeling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Zygarde 1"
+              "icon": "lucide-file",
+              "title": "Changeling"
             }
           }
         ]
@@ -190,11 +192,13 @@
   },
   "active": "4eeeba2848a429e7",
   "lastOpenFiles": [
+    "Races (Playable).md",
+    "Races/Chan.md",
+    "Images/Zygarde 1.jpg",
     "Yveltal, the Wings of Oblivion.md",
     "Zygarde, The Body of a Billion Minds.md",
     "Xia-Ruph System.md",
     "Living Weapon.md",
-    "Images/Zygarde 1.jpg",
     "Images/Zygarde 2.jpg",
     "Images/Zygarde 3.webp",
     "Images",
@@ -220,7 +224,6 @@
     "Classes & Subclasses.md",
     "Gods.md",
     "Azebane Survival Guide.md",
-    "Cities/Fenhaven.md",
     "Characters/Anointed Legion",
     "Untitled 1.canvas",
     "Untitled.canvas",
